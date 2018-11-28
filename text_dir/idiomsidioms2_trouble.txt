@@ -1,0 +1,139 @@
+{
+    "card_id": "idioms_actions_speak_louder_than_words",
+    "examples": [
+        "technospeak"
+    ],
+    "headword": "-speak",
+    "image": "actions speak louder than words\t.jpg",
+    "ipa": "spik",
+    "match_word": "actions speak louder than words",
+    "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/_speak_1_us_3.mp3",
+    "senses": [
+        "forming nouns denoting manner of speaking, characteristic of specified field or group"
+    ],
+    "word": "-speak"
+}
+
+################################
+
+{
+    "card_id": "idioms_feeling_blue;_have_the_blues",
+    "examples": [
+        "a feeling of joy",
+        "he had the feeling that he was being watched",
+        "a loss of feeling in the hands",
+        "he seems to have little feeling for art",
+        "Most of them possess no souls and an inhuman ability to disregard all forms of emotion and feeling.",
+        "He seemed shocked for a second but that emotion was soon taken over by the much stronger feeling of pain.",
+        "My hand glowed with that bright light, and a fuzzy warm feeling came into my fingers.",
+        "The churning feeling of pain gurgled up through his body as he tried to sit up.",
+        "I want you to listen what he said, what his sense, what his feeling is right now.",
+        "When you are fifty, you constantly have this strong feeling that you are wasting your time.",
+        "One can be gripped by a vague feeling of claustrophobia, as if entering an underground tomb.",
+        "My strong gut feeling is that she wants you to break up with her, or she wants to prepare you for impending breakup.",
+        "Sneers and bad feelings had grown stronger at Kat's slight improvement in mood.",
+        "I could not help but love that quality about her and it only added to my feelings that were growing stronger each day."
+    ],
+    "headword": "feeling",
+    "image": "feeling blue; have the bluess.jpg",
+    "ipa": "\u02c8fil\u026a\u014b",
+    "match_word": "feeling blue; have the blues",
+    "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/feeling_us_1.mp3",
+    "senses": [
+        "emotional state or reaction",
+        "belief",
+        "capacity to feel material things",
+        "intuitive understanding of"
+    ],
+    "word": "feeling"
+}
+
+################################
+
+{
+    "card_id": "idioms_well_begun_is_half_done",
+    "examples": [],
+    "headword": "well-begun",
+    "image": "well begun is half done\t.jpg",
+    "ipa": "\u02ccw\u025blb\u026a\u02c8\u0261\u028cn",
+    "match_word": "well begun is half done",
+    "pronounciation": "idioms_well_begun_is_half_done_wpron.mp3",
+    "senses": [
+        "Begun in a positive or promising manner; properly or correctly started."
+    ],
+    "word": "well-begun"
+}
+
+################################
+
+{
+    "card_id": "idioms_wrap_your_head_around_something",
+    "examples": [
+        "they hope to wrap up negotiations within sixty days",
+        "They wrap it up with some fascinating conclusions and five answers to \u2018what to do and how to do it.\u2019",
+        "But Washington is insisting that more negotiations are needed before the long-running dispute can be wrapped up.",
+        "That about wraps it up for today, I hope to have some more news tomorrow as we start working on the Prestonia review as well as some other product reviews and articles that have been in the works for a while.",
+        "(GB) The Robins pressed for an equaliser but the visitors wrapped the game up when Gavin Dickinson scored after a good break in the 67th minute.",
+        "(GB) The chapter is also abnormally short, but hopefully it wraps things up well.",
+        "(GB) It was fun if a little light, as though she couldn't be bothered finishing it so she just wrapped it up quickly and then summarised subsequent events in the epilogue.",
+        "(GB) Menigo said it was hoped the case would be wrapped up by June 25.",
+        "(GB) St. Martin's proceeded to wrap the game up with a series of points and a late goal.",
+        "(GB) Although honours in the end were evenly shared after a hard fought contest, one could not help feeling that Yorkshire could have wrapped the game up inside three days if they had adopted different tactics.",
+        "(GB) Lowe auctioneers have been in negotiations with interested buyers and now expect to wrap the sale up in the next two weeks."
+    ],
+    "headword": "wrap_something_up",
+    "image": "wrap your head around something\t.jpg",
+    "ipa": "",
+    "match_word": "wrap your head around something",
+    "pronounciation": "idioms_wrap_your_head_around_something_wpron.mp3",
+    "senses": [
+        "complete or conclude discussion or agreement"
+    ],
+    "word": "wrap something up"
+}
+
+################################
+
+{
+    "card_id": "idioms_go_over_something_with_a_fine_toothed_comb",
+    "examples": [],
+    "headword": "fine-toothed",
+    "image": "go over something with a fine toothed combb.jpeg",
+    "ipa": "",
+    "match_word": "go over something with a fine toothed comb",
+    "pronounciation": "idioms_go_over_something_with_a_fine_toothed_comb_wpron.mp3",
+    "senses": [
+        "(Of a file, saw, comb, or other toothed implement) having thin, closely set teeth; (also figurative of a search or analysis) very thorough, rigorous."
+    ],
+    "word": "fine-toothed"
+}
+
+################################
+
+{
+    "card_id": "idioms_put_in_the_long_hours",
+    "examples": [
+        "My old home computer was getting a little long in the tooth, so I decided it was time to upgrade to a speedy new machine.",
+        "(GB) His gaggle of girlfriends all seem suspiciously long in the tooth to qualify as high-school students.",
+        "(GB) I think I am too long in the tooth to start adopting the dress down policy of many of today's businesses.",
+        "(GB) He assures me he is far too long in the tooth to compete against the current world title holders, who nowadays are in their teens.",
+        "(GB) After a career in building he decided he was too long in the tooth and looked to something more gentle - funeral directory.",
+        "(GB) I'm too long in the tooth and I'm too old to be bluffed.",
+        "(GB) \u2018I felt we were getting a bit long in the tooth,\u2019 he said.",
+        "(GB) I'm a bit too long in the tooth to get too worked up about these things any more.",
+        "(GB) But the car was looking increasingly long in the tooth, despite continuous design improvements.",
+        "(GB) I'm only 29 so I hope that doesn't make me long in the tooth, I started driving a logging truck when I was 17."
+    ],
+    "headword": "long_in_the_tooth",
+    "image": "put in the long hourss.jpeg",
+    "ipa": "",
+    "match_word": "put in the long hours",
+    "pronounciation": "idioms_put_in_the_long_hours_wpron.mp3",
+    "senses": [
+        "rather old"
+    ],
+    "word": "long in the tooth"
+}
+
+################################
+

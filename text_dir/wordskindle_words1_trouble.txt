@@ -1,0 +1,16 @@
+{
+    "card_id": "words_gauge_panel",
+    "examples": [],
+    "headword": "panel_gauge",
+    "image": "gauge panell.jpeg",
+    "ipa": "",
+    "match_word": "gauge panel",
+    "pronounciation": "words_gauge_panel_wpron.mp3",
+    "senses": [
+        "A gauge wide enough to gauge the width of a board or panel."
+    ],
+    "word": "panel gauge"
+}
+
+################################
+

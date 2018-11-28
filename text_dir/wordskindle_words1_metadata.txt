@@ -1,0 +1,1311 @@
+{
+  "card_id": "words_animosity",
+  "examples": [
+    "he no longer felt any animosity toward her",
+    "the animosity between the king and his brother",
+    "the five decided to put aside their animosities",
+    "(GB) To feel animosity for the country as he defines it would indeed be an indication of envy and resentment.",
+    "(GB) Yet in spite of this long animosity, Confucianism and Buddhism unite in refusing to take positive law very seriously.",
+    "(GB) Cynics argue that the space race was merely an expression of cold-war animosity.",
+    "(GB) Pam says the people are lovely and you encounter very little public animosity about the Vietnam War.",
+    "(GB) He is a gentleman and while we were on opposite sides, there was no animosity.",
+    "(GB) Wilful misinterpretation of the law has bred animosity and resentment towards disabled people.",
+    "(GB) There is strong animosity between the two groups and each has its own culture and traditions.",
+    "(GB) The animosity at the time was directed at the principle, rather than the particular person.",
+    "(GB) She said she bore no animosity towards her stepson Gordon for what had happened.",
+    "(GB) But there is pressure for him to step aside now to clear the air of animosity that hangs over the agency."
+  ],
+  "headword": "animosity",
+  "image": "animosityy.jpg",
+  "ipa": "\u02cc\u00e6n\u0259\u02c8m\u0251s\u0259di",
+  "match_word": "animosity",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/animosity_us_1.mp3",
+  "senses": [
+    "strong hostility"
+  ],
+  "word": "animosity"
+}
+
+################################
+
+{
+  "card_id": "words_appalled",
+  "examples": [
+    "I am absolutely appalled that anyone should be attacked in this manner",
+    "Alison looked at me, appalled"
+  ],
+  "headword": "appalled",
+  "image": "appalledd.jpg",
+  "ipa": "\u0259\u02c8p\u0254ld",
+  "match_word": "appalled",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/appalled_us_1.mp3",
+  "senses": [
+    "greatly dismayed or horrified"
+  ],
+  "word": "appalled"
+}
+
+################################
+
+{
+  "card_id": "words_apron",
+  "examples": [
+    "a tiny apron of garden",
+    "apron feeders bring coarse ore to a grinding mill",
+    "As it falls, the screen is blacked out and a light opens on the apron, stage right.",
+    "Sighing, I reached in the front pocket of my apron for my note pad and proceeded to the elderly couple.",
+    "Consequently, FOD can be found on the parking aprons, taxiways, and runways of almost every airport and airbase in the world.",
+    "The fire trucks followed us as we rolled to the end and turned into the apron, with hot brakes on the port side.",
+    "She wore a rather worn dress and an apron with pockets full of spools.",
+    "He wore a puffy white long sleeve that made a v-shape above the chest with black slacks; everyday clothes with a stained apron around himself.",
+    "Wear gloves, aprons, and other protective clothing to keep your skin from coming in contact with oils, greases, and chemicals.",
+    "This project calls for making a deep cut between the end of a runway and an apron.",
+    "Then he entered the gym and sat on the apron of the ring to field questions from the media.",
+    "Amy pulled a letter from the front pocket of her apron."
+  ],
+  "headword": "apron",
+  "image": "apronn.jpg",
+  "ipa": "\u02c8e\u026apr\u0259n",
+  "match_word": "apron",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/apron_us_1.mp3",
+  "senses": [
+    "protective garment",
+    "small area",
+    "conveyor"
+  ],
+  "word": "apron"
+}
+
+################################
+
+{
+  "card_id": "words_blotched",
+  "examples": [
+    "red blotches on her face",
+    "He could have been lying on his naked belly in the grass by now with the sun painting red blotches on his freckled skin, while little bugs tickled between his toes.",
+    "By the time I was done, I had ink blotches on my skin, and my hands and wrists were cramped.",
+    "Her skin had an uncanny translucence relieved by large dark blotches where nurses had tried to find a vein and she had bled under the surface.",
+    "Solar storms tend to occur near sunspots, cool regions on the sun's surface that appear as dark blotches.",
+    "Sunlight breached the canopy only in patches, golden blotches on the forest floor.",
+    "I changed into a pair of faded jeans and a dark green tank top with red paint-like blotches on it.",
+    "Its back is dark with small, irregular, light blotches.",
+    "These coalesce into irregular, large maroon blotches when there's heavy infestation.",
+    "It can be recognized as oval to irregular spots or blotches with ash gray centers and the presence of black fungal bodies speckled over the lesion surface.",
+    "The camera panned down to earth, and several large, reddish blotches appeared on the surface as the missiles struck."
+  ],
+  "headword": "blotch",
+  "image": "blotchedd.jpeg",
+  "ipa": "bl\u0251t\u0283",
+  "match_word": "blotched",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/blotch_us_1.mp3",
+  "senses": [
+    "large irregular patch or unsightly mark on skin"
+  ],
+  "word": "blotch"
+}
+
+################################
+
+{
+  "card_id": "words_bogged_down",
+  "examples": [
+    "a peat bog",
+    "the island is a wilderness of bog",
+    "a bog of legal complications",
+    "The novel picks up momentum and becomes more affecting as it moves forward, leaving behind the early chapters that sometimes get bogged down with the family's past.",
+    "She really drags him down, but he's too sweet to tell her to bog off like he wants to.",
+    "If she had hit me and told me to bog off I would at least have thought she wasn't worth going after.",
+    "Yet it is the absence of concrete, compelling details that allows these poems to get bogged down in their juvenile fascination with the verbal act as such.",
+    "Two attempts to move back to Chile were bogged down by unresolved custody issues over Matias.",
+    "All right, I don't want to get bogged down in all that.",
+    "We credit your spontaneous side; you tend to live in the moment, and you don't get bogged down by inhibitions like most women your age.",
+    "The whole film is light and delicate, but is bogged down by its budget constraints and a script laden with endless dialogue and first-person narration.",
+    "(GB) They unfortunately entered harsh and rugged Kurdistan just as winter was setting in, they tried to cross the mountains before the snows made them impassable but got bogged down halfway across.",
+    "(GB) This has all the hallmarks of a Spielberg classic - it does not get bogged down in politics, science and strategy, but concentrates on big emotion and intimate drama with a well-written script."
+  ],
+  "headword": "bog",
+  "image": "bogged downn.jpg",
+  "ipa": "b\u0251\u0261",
+  "match_word": "bogged down",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/bog_us_1_rr.mp3",
+  "senses": [
+    "area of soft wet muddy ground",
+    "toilet"
+  ],
+  "word": "bog"
+}
+
+################################
+
+{
+  "card_id": "words_bothersome_birds",
+  "examples": [
+    "most childhood stomachaches, though bothersome, aren't serious",
+    "And I think that the result says something bothersome about the times in which we are living.",
+    "Human skin particles, pollen, and smoke are all part of this bothersome brew of irritants.",
+    "Babies are supposed to take naps during the day, which can sometimes be bothersome if you want to live a thing called life.",
+    "I had strange, bothersome dreams last night that are still playing in my head.",
+    "Then, out of the clear blue, I got hit with a bothersome respiratory and gastric malady that laid me down.",
+    "(GB) Then I was stricken by one of those pre-emptive wake-ups that are usually so bothersome.",
+    "(GB) Commitment-phobes are all quite hurtful, but I find the last type most bothersome.",
+    "(GB) It is also an invitation to all those bothersome insect pests, which bite and annoy us, to join in on the activities.",
+    "(GB) That's an extreme view, but things have undoubtedly become more bothersome for the trade.",
+    "(GB) Their logic dictates that the chances of bothersome winter postponements are reduced by propelling matches forwards."
+  ],
+  "headword": "bothersome",
+  "image": "bothersome birdss.jpg",
+  "ipa": "\u02c8b\u0251\u00f0\u0259rs\u0259m",
+  "match_word": "bothersome birds",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/bothersome_us_1.mp3",
+  "senses": [
+    "annoying"
+  ],
+  "word": "bothersome"
+}
+
+################################
+
+{
+  "card_id": "words_bray",
+  "examples": [
+    "The mules brayed in fear as the cart driver hauled back on the reigns, bringing the wagon to a shuddering halt.",
+    "The creature brayed, kicked out his heels, and set to grazing with ferocious concentration.",
+    "It brayed loudly again, and scampered, frightened, into the woods.",
+    "The rooster would have crowed, the donkey would have brayed.",
+    "The horse brayed softly and moved over to Katie, who was holding out a blade of grass for it to eat.",
+    "At the edge of her mind, she heard a mule braying loudly, in fear.",
+    "As might be expected, some people abused this system and reported the nosy neighbor (with the loud goat who brayed at 3 AM) as a heretic, just to try and get rid of them.",
+    "A tiny spark jumped from the mage's finger to the flank of the donkey pulling it, and it brayed a complaint as it headed for the gate at an awkward trot.",
+    "US spokespersons brayed that African leaders were letting their people starve.",
+    "They head out in the boat and Sancho starts crying after he hears his donkey braying plaintively."
+  ],
+  "headword": "bray",
+  "image": "brayy.jpg",
+  "ipa": "bre\u026a",
+  "match_word": "bray",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/bray_us_1.mp3",
+  "senses": [
+    "loud, harsh cry of donkey or mule"
+  ],
+  "word": "bray"
+}
+
+################################
+
+{
+  "card_id": "words_caress",
+  "examples": [
+    "she caressed the girl's forehead",
+    "a gentle breeze caressed his skin",
+    "He soundlessly walked over to her bed and kneeled down, gently caressing her cheek.",
+    "It was very quiet as the wind picked up through the trees, caressing our faces ever so gently.",
+    "Kat felt Noah's hand rest onto her face as he caressed her cheek gently with his thumb.",
+    "When he finally reached it he touched its snow white feathers and caressed it gently.",
+    "As he passed her, he caressed her cheek with the palm of his hand and gently gave her a chaste kiss on the cheek.",
+    "He kissed her softly and placed a hand gently upon her cheek, caressing it with his thumb.",
+    "His tone was joking as he rested his arm around her shoulder and gently caressed her arm.",
+    "Birds were chirping happily as the bright rays of the sun touched and caressed her skin.",
+    "(GB) She was dressed in pale pink silk, her gown gently caressing the floor and her head adorned with a dainty, bejewelled crown.",
+    "(GB) She placed one hand on his cheek, gently caressing it with her warm hand."
+  ],
+  "headword": "caress",
+  "image": "caresss.jpeg",
+  "ipa": "k\u0259\u02c8r\u025bs",
+  "match_word": "caress",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/caress_us_1.mp3",
+  "senses": [
+    "touch or stroke gently or lovingly"
+  ],
+  "word": "caress"
+}
+
+################################
+
+{
+  "card_id": "words_coarse",
+  "examples": [
+    "a coarse woolen cloth",
+    "These observations explained the presence of the coarse suspended particles found in the present study.",
+    "Beneath her she could feel the coarse grit of sand and pebbles, and in the air she could smell the ocean.",
+    "He stood six feet tall and was covered in coarse black fur.",
+    "The material is coarse and rough, the fabric verdant and winter green.",
+    "Sprinkle the coarse salt over a sheet pan and arrange the clams on top.",
+    "Everyone always wants to touch the cloth because it looks so rough and coarse, but I can assure you, there is nothing so comfortable for the climate!",
+    "A ragged, yellow-green plant had pushed its way through the coarse, black soil.",
+    "For container gardening use a fast draining potting soil mixed with a little coarse sand.",
+    "The second heating refines the coarse grains and leaves the steel in a softened condition.",
+    "If the surface is slick, such as ceramic tile, sand it with coarse sandpaper."
+  ],
+  "headword": "coarse",
+  "image": "coarsee.jpg",
+  "ipa": "k\u0254rs",
+  "match_word": "coarse",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/coarse_us_1.mp3",
+  "senses": [
+    "rough in texture",
+    "rude or vulgar"
+  ],
+  "word": "coarse"
+}
+
+################################
+
+{
+  "card_id": "words_conceal-carry",
+  "examples": [
+    "a line of sand dunes concealed the distant sea",
+    "The room in which was entered was both dead and dark, concealing everything that existed in it.",
+    "He sat up in his bed without a shirt on and covers concealing the lower half of his body.",
+    "But her personal antipathy conceals a more serious matter.",
+    "My dark hair conceals my damp yellow eyes, like a funeral veil that hides a widow's tears.",
+    "She carefully picked up two small bottles, concealing one with the other.",
+    "Carrying a gun in a vehicle also is illegal because it is considered to be concealed.",
+    "She had her back to me at the time, a strong, beautiful back that was barely concealed.",
+    "(GB) It stands in a cutting, and the hotel at the head of the platforms conceals the long, glazed vaults of the train shed.",
+    "(GB) Through Europe, there can be a kind of internationalism in name and law, but one that conceals a more fragmented continent, obsessed with regional concerns.",
+    "(GB) They are adept in concealing their ideological and political agenda in a very attractive and secular-looking package."
+  ],
+  "headword": "conceal",
+  "image": "conceal-carryy.jpg",
+  "ipa": "k\u0259n\u02c8sil",
+  "match_word": "conceal-carry",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/xconceal_us_1.mp3",
+  "senses": [
+    "not allow to be seen"
+  ],
+  "word": "conceal"
+}
+
+################################
+
+{
+  "card_id": "words_cradle",
+  "examples": [
+    "a society that would secure the welfare of its citizens from cradle to grave",
+    "he saw Greek art as the cradle of European civilization",
+    "Max cursed as he slammed the receiver back onto the cradle.",
+    "There was an old desk and an empty cradle to a portable phone.",
+    "Some were often placed in cradles with newborn babies.",
+    "Calamity struck when the cradle on the trailer collapsed and crushed her boat.",
+    "His fingers made their way to the cradle the receiver was resting on, then just snatched the thing off and held it to his ear.",
+    "He bent down and picked up the large wooden cradle without any effort and followed Christina to her room.",
+    "The front section is a height-adjustable rest with a shaped cradle for the forearm.",
+    "For example, the car's carbon fiber reinforced plastic engine cradle takes one week to build by hand.",
+    "However, they had all known each other from the cradle.",
+    "The two of them walked to the cradle where the baby was still asleep."
+  ],
+  "headword": "cradle",
+  "image": "cradlee.jpg",
+  "ipa": "\u02c8kre\u026adl",
+  "match_word": "cradle",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/cradle_us_1.mp3",
+  "senses": [
+    "very young child's bed",
+    "framework on which boat rests"
+  ],
+  "word": "cradle"
+}
+
+################################
+
+{
+  "card_id": "words_dander",
+  "examples": [
+    "this doesn't half get my dander up",
+    "(GB) I hope he got to the chapel on time because it wouldn't be the first time he dandered in late.",
+    "(GB) You literally need to battle your way through the crowd and when you come across someone who is just dandering (walking slowly) you just want to push them.",
+    "(GB) Tom decided it was time to dander down the road to Gorman's to watch the second half with his colleagues.",
+    "(GB) After that, Ginty dandered about our wee town for a while and then he stood on the street corner and watched a few cars going up and down.",
+    "(GB) Map in hand, I dander, uneasily, towards my hotel."
+  ],
+  "headword": "dander",
+  "image": "danderr.jpg",
+  "ipa": "\u02c8d\u00e6nd\u0259r",
+  "match_word": "dander",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/dander_us_1.mp3",
+  "senses": [
+    "lose one's temper"
+  ],
+  "word": "dander"
+}
+
+################################
+
+{
+  "card_id": "words_defective-product",
+  "examples": [
+    "complaints over defective goods",
+    "He didn't smoke, and he jogged and worked out and ate right, but he had a defective heart - the wrong number of valves or something.",
+    "Mutants that grew on these plates were judged to be defective in glucose metabolism and were not studied further.",
+    "I think I spent most of my childhood under the impression that I just wasn't trying hard enough, or that perhaps my vision was somehow defective.",
+    "Apple packing houses currently rely on digital camera imagery to sort apples by surface appearance only, flagging those that are visibly defective or the wrong size or color.",
+    "Weak or defective spaces in the organs or tissues are where a pathological condition is likely to begin.",
+    "Hundreds of injuries, and some deaths, were linked to such devices as defective heart valves, faulty pacemakers, and substandard intrauterine devices.",
+    "Responses to GIP have been shown to be defective in type 2 diabetic patients.",
+    "A genetic selection for mutants that activate this pathway uncovered a class of mutants defective in cell wall integrity.",
+    "(GB) A case study of cause-and-effect, it's also a yarn of dangerously defective brotherly love.",
+    "(GB) Plato regarded the world of pure mathematical ideas as alone worthy of study; if physical objects did not conform to it, so much the worse for them, because they were defective and imperfect anyway."
+  ],
+  "headword": "defective",
+  "image": "defective-productt.jpg",
+  "ipa": "d\u0259\u02c8f\u025bkt\u026av",
+  "match_word": "defective-product",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/defective_us_2.mp3",
+  "senses": [
+    "imperfect or faulty",
+    "having mental disabilities"
+  ],
+  "word": "defective"
+}
+
+################################
+
+{
+  "card_id": "words_doppleganger",
+  "examples": [
+    "he has been replaced by an evil doppelg\u00e4nger",
+    "Its doppelg\u00e4nger among the desserts is the chocolate fundido, a sticky, spicy fondue of melted Oaxacan chocolate, served with a platter of cookies, churros, and fruit for dipping.",
+    "You did your best by suggesting that \u2018John\u2019 had a doppelg\u00e4nger.",
+    "As such, video game enemies in sibling-based stories are more likely to be doppelg\u00e4ngers, shadows or doubles of the player-characters.",
+    "Along the way, he meets his doppelg\u00e4nger at the toy store.",
+    "Among other syndromes, they mentioned doppelg\u00e4ngers or subjective doubles.",
+    "As the novel unfolds, the opposed monologues of the mentor and his student betray these \u2018co-conspirators in the story\u2019 as grotesque doppelg\u00e4ngers, \u2018partners in the performance.\u2019",
+    "But it's a pretty fair guess that they'll give their Democratic doppelg\u00e4nger a run for its money.",
+    "She has a doppelg\u00e4nger who locks her up.",
+    "While it was sweet to have little TV doppelg\u00e4ngers with perfect teeth and long sideburns running around posing as us, it wasn't that fulfilling.",
+    "They'll visit young Abe's law office, stand in the crowd at the Lincoln-Douglas debates, and shuffle solemnly up to a coffin where a Lincoln doppelg\u00e4nger lies in state."
+  ],
+  "headword": "doppelganger",
+  "image": "dopplegangerr.jpg",
+  "ipa": "\u02c8d\u0251p\u0259l\u02cc\u0261\u00e6\u014b\u0259r",
+  "match_word": "doppleganger",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/doppelganger_1_us_3.mp3",
+  "senses": [
+    "apparition or double of living person"
+  ],
+  "word": "doppelg\u00e4nger"
+}
+
+################################
+
+{
+  "card_id": "words_endearing_moment",
+  "examples": [
+    "an endearing little grin",
+    "No one except the Lord spoke to him like that with such an endearing term of undying affection.",
+    "(GB) Of course, Maria's movie career did not begin and end with this endearing comedy.",
+    "(GB) Few understood Messiaen early on, most considering him an eccentric if endearing crackpot.",
+    "(GB) She was a wonderful neighbour who had many endearing qualities which made her a great favourite of all she met.",
+    "(GB) He also played a number of endearing characters, and was truly one of the most versatile players in Bollywood.",
+    "(GB) Needless to say, she also made news as a person of endearing charm, winning the hearts of the public.",
+    "(GB) I'm supposed to find last weekend an endearing joke or something.",
+    "(GB) However, their pointed, white-coloured tusks and large ears give them an endearing look.",
+    "(GB) But Ms Cooper turned adversity into advantage by making an endearing apology.",
+    "(GB) British sports fans are certainly not an endearing lot and have earned that reputation from most beyond the realm."
+  ],
+  "headword": "endearing",
+  "image": "endearing momentt.jpg",
+  "ipa": "\u026an\u02c8d\u026ar\u026a\u014b",
+  "match_word": "endearing moment",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/endearing_us_1.mp3",
+  "senses": [
+    "inspiring affection"
+  ],
+  "word": "endearing"
+}
+
+################################
+
+{
+  "card_id": "words_faucets",
+  "examples": [
+    "Before working on any faucet turn the water off and open the lines to drain into the sink.",
+    "The simple commercial faucet eliminates the need to carry heavy water-filled pots from sink to stove.",
+    "You can buy a small, round sink and a tall faucet at any plumbing supply store.",
+    "Showerheads and lavatory faucets with flow rates of 1.0 to 1.5 gallons per minute are also gaining acceptance as functional designs improve.",
+    "Water left in the hoses can freeze and expand, causing faucets and connecting pipes inside your home to freeze and break.",
+    "As Americans look around today, we see that the grass is still green, drinkable water still flows from the faucets, and the supermarkets are still stocked with food.",
+    "Repair leaky faucets promptly; a leaky faucet wastes gallons of water in a short period.",
+    "Both faucets contain a replaceable filter cartridge that's conveniently located right in the faucet head and can be changed without any tools.",
+    "The 2 main faucet types most commonly used are compression faucets and mixing faucets.",
+    "Install faucets with anti-scald devices that prevent water temperature from rising to dangerous levels, or buy pressure-balanced valves that equalize hot and cold water."
+  ],
+  "headword": "faucet",
+  "image": "faucetss.jpg",
+  "ipa": "\u02c8f\u0254s\u026at",
+  "match_word": "faucets",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/faucet_us_1.mp3",
+  "senses": [
+    "tap"
+  ],
+  "word": "faucet"
+}
+
+################################
+
+{
+  "card_id": "words_flayed",
+  "examples": [
+    "one shoulder had been flayed to reveal the muscles",
+    "Employees who do not comply will be flayed alive and slowly chopped into little pieces.",
+    "Some of them had their skins flayed off them and their flesh was flung to the dogs.",
+    "The enemy stood shocked as the heavy weapon flayed him open, and he fell to the ground.",
+    "Could a professional game critic ever make the transition to game designer without having the games he/she produces flayed alive by the gaming press?",
+    "The creatures seemed upset and began to flay the skin on their backs with flails and whips they carried in holsters around the thick trunk of their neck.",
+    "Had the child before her been real, she would have flayed the skin from her bones with a thousand hungry spiders.",
+    "The men moved in among the densely packed animals, smashed skulls with five-foot hickory clubs and flayed the twitching corpses.",
+    "One held him in a firm grasp, while the guards watched from the near; and Viro faced the butte, his back naked, as the woman flayed him again and again with a horse-whip.",
+    "For instance, God did not tell Abraham to flay Isaac's skin and beat him mercilessly before sacrificing him.",
+    "This horrible spectacle included having his skin flayed with iron combs."
+  ],
+  "headword": "flay",
+  "image": "flayedd.jpg",
+  "ipa": "fle\u026a",
+  "match_word": "flayed",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/flay_us_1.mp3",
+  "senses": [
+    "remove skin from"
+  ],
+  "word": "flay"
+}
+
+################################
+
+{
+  "card_id": "words_gauge_panel",
+  "examples": [],
+  "headword": "panel_gauge",
+  "image": "gauge panell.jpeg",
+  "ipa": "",
+  "match_word": "gauge panel",
+  "pronounciation": "words_gauge_panel_wpron.mp3",
+  "senses": [
+    "A gauge wide enough to gauge the width of a board or panel."
+  ],
+  "word": "panel gauge"
+}
+
+################################
+
+{
+  "card_id": "words_glistening_water",
+  "examples": [
+    "the glistening golden dome"
+  ],
+  "headword": "glistening",
+  "image": "glistening waterr.jpg",
+  "ipa": "\u02c8\u0261l\u026as(\u0259)n\u026a\u014b",
+  "match_word": "glistening water",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/glistening_us_1.mp3",
+  "senses": [
+    "shining with sparkling light"
+  ],
+  "word": "glistening"
+}
+
+################################
+
+{
+  "card_id": "words_grease",
+  "examples": [
+    "axle grease",
+    "But he then noticed that recommended greasing intervals were being extended dramatically, in many cases to multiple-hundred-hour intervals.",
+    "My thoughts go toward things like greasing a squeaky cupboard hinge, removing stickers from glass, general engine maintenance and other uses not involving food preparation.",
+    "Mix oats in, spread onto a lightly greased glass baking dish, and refrigerate.",
+    "The mother finds the recipe, gathers the ingredients, measures, mixes, rolls out the dough, greases the sheet, and pre-heats the oven.",
+    "We've tried greasing the hinges, but we still have a hard time getting things through there.",
+    "The past three days workers have been out every morning greasing the tracks and the noise levels have dropped dramatically.",
+    "At the end of three year's use, and except for greasing the lower drive unit because of its constant immersion in water, the makers insists the only item that may need service is the spark plug.",
+    "(GB) These would have gone into the oven on baking trays that were greased with butter wrappers, which were kept for ever.",
+    "(GB) Place on a lightly greased baking sheet and bake in a moderately hot oven for 10 to 15 minutes.",
+    "(GB) Place a non-stick or lightly greased baking tray in the oven."
+  ],
+  "headword": "grease",
+  "image": "greasee.jpg",
+  "ipa": "\u0261ris",
+  "match_word": "grease",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/grease_us_1.mp3",
+  "senses": [
+    "thick oily lubricant",
+    "fat used or produced in cooking"
+  ],
+  "word": "grease"
+}
+
+################################
+
+{
+  "card_id": "words_heist",
+  "examples": [
+    "a diamond heist",
+    "The brothers who own the house became part of the city's nouveau riche when they heisted a bank during the looting.",
+    "Disguises are assumed, safes are blown, millions of dollars are heisted according to a completely new and clever scheme, but this is pure escapism.",
+    "But should you worry that your credit-card information might be heisted as it travels through cyberspace?",
+    "The sushi bar appears to be encased in red lacquer, and the tall, curving chairs lining it look like they've been heisted from The Jetsons.",
+    "I always wore two thin silver chains down my left side so no one would heist my wallet.",
+    "USA Today essentially heisted a big chunk of the Journal's travel-related ad revenue between 1986 and 1996, Fortune reports.",
+    "A couple of the new ones took a while to get used to, but essentially the new set was the same as the ones that were heisted.",
+    "(GB) When thieves heisted a car rented to cricket-star Brian Lara and the perpetrators discovered his bat in the vehicle, they returned it.",
+    "(GB) After heisting a gray Honda Wave motorcycle, he drove it straight into a police checkpoint.",
+    "(GB) Immediately after that, a new plaque was unveiled at the school and a flag bearing the original village name was heisted outside the school."
+  ],
+  "headword": "heist",
+  "image": "heistt.jpeg",
+  "ipa": "ha\u026ast",
+  "match_word": "heist",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/heist_us_1.mp3",
+  "senses": [
+    "robbery"
+  ],
+  "word": "heist"
+}
+
+################################
+
+{
+  "card_id": "words_hoist",
+  "examples": [
+    "high overhead great cranes hoisted girders",
+    "\u2018Yeah, I've got it,\u2019 I answered, hoisting myself up and over the edge and back onto solid ground.",
+    "A group of paramedics hoisted me up onto a stretcher and then into an ambulance.",
+    "Clutching onto the arm of the sofa, I hoisted myself up and ran down the hall to the bathroom.",
+    "He released my arm, hoisted himself onto the horse, and pulled me up after him.",
+    "The smaller of the two, Joe, was hoisted onto his father's shoulders by his mother.",
+    "And, as any traveler knows, it's also a good movement to do to avoid straining your back or shoulders when hoisting a heavy bag into a small overhead compartment.",
+    "He nodded, hoisting himself onto the bunk and motioning for me to toss him the extra pillow.",
+    "Jeffers apprenticed himself to the home's contractors, then built Hawk Tower by hand, using ropes to hoist boulders from the cove below.",
+    "When they finally boarded the airplane, Della tried to hoist her small suitcase into the overhead compartment, but she could hardly lift it.",
+    "She looked so sweet like that, hoisting herself up onto the bed, and then sitting with her legs sticking straight out in front of her."
+  ],
+  "headword": "hoist",
+  "image": "hoistt.jpg",
+  "ipa": "h\u0254\u026ast",
+  "match_word": "hoist",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/hoist_us_1.mp3",
+  "senses": [
+    "raise using ropes and pulleys"
+  ],
+  "word": "hoist"
+}
+
+################################
+
+{
+  "card_id": "words_jaunty",
+  "examples": [
+    "there was no mistaking that jaunty walk",
+    "Whistling a jaunty tune to herself, she watched the group of students file out of the lecture hall wearily.",
+    "He ran a hand through his unkempt, honey-colored hair, before giving a jaunty little bow.",
+    "His crimson eyes were locked onto her gaze; a cigarette protruding from his lips at a jaunty angle.",
+    "The music faltered for a moment and resumed, just as happy and jaunty as ever.",
+    "He casually walked down the stairs, humming a jaunty tune to himself as he did so.",
+    "(GB) A recent recruit from Liverpool who joined his Stafford Street office was welcomed with a few jaunty choruses from a sea shanty.",
+    "(GB) Why does my hair, which is short on top and usually stands up in a jaunty sort of manner at home, go flat whenever I go to London?",
+    "(GB) The music is effortlessly organic and songs such as Fingerprints and Only One Way are jaunty despite their lyrically black quality.",
+    "(GB) There are some wonderful turns of phrase in this fast-moving novel, powered by sassy dialogue and the jaunty mindset of its heroine.",
+    "(GB) She had a jaunty manner\u2026 but there was more than that to be noticed about Miss Stuart."
+  ],
+  "headword": "jaunty",
+  "image": "jauntyy.png",
+  "ipa": "\u02c8d\u0292\u0254n(t)i",
+  "match_word": "jaunty",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/jaunty_us_1.mp3",
+  "senses": [
+    "having or expressing lively, cheerful, and self-confident manner"
+  ],
+  "word": "jaunty"
+}
+
+################################
+
+{
+  "card_id": "words_locket",
+  "examples": [
+    "Her hand reached up to her neck, but the chain and the locket were both missing.",
+    "But if it doesn't extend to jewelry in general, how about small gold lockets you each wear around your neck inside your clothes with a picture of you both inside the locket, with the wedding date inscribed on the front?",
+    "Rachel began fingering the gold locket around her neck with her free hand as she spoke again.",
+    "It was a gold necklace, with an exquisite gold chain and heart-shaped locket at the end.",
+    "It was a tiny gold locket on a delicate chain with cursive lines etched into it.",
+    "She reached us and fingered the silver locket hanging around her neck.",
+    "Her only decorations were a few small jewels in her hair, rose shaped earrings and a small silver locket on a thin chain.",
+    "A gold chain with a locket containing a picture of her late husband hung around her neck as it did every day.",
+    "She placed the chain around her neck and tucked the locket safely inside her blouse.",
+    "She placed the gold locket inside, and closed the lid on the box lovingly."
+  ],
+  "headword": "locket",
+  "image": "lockett.jpg",
+  "ipa": "\u02c8l\u0251k\u0259t",
+  "match_word": "locket",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/locket_us_1.mp3",
+  "senses": [
+    "small ornamental case",
+    "metal plate or band on scabbard"
+  ],
+  "word": "locket"
+}
+
+################################
+
+{
+  "card_id": "words_lurking",
+  "examples": [
+    "the trumpet fish is a lurking predator"
+  ],
+  "headword": "lurking",
+  "image": "lurkingg.jpg",
+  "ipa": "\u02c8l\u0259rk\u026a\u014b",
+  "match_word": "lurking",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/lurking_us_1.mp3",
+  "senses": [
+    "remaining hidden so as to wait in ambush"
+  ],
+  "word": "lurking"
+}
+
+################################
+
+{
+  "card_id": "words_nimbler",
+  "examples": [
+    "with a deft motion of her nimble fingers",
+    "The boy jumped up onto his bed with nimble movement, holding the insulation in his mouth while rummaging the pouch in his hand for a normal wrench.",
+    "It'll take nimble minds as well as strong shoulders.",
+    "My hands are bigger, and more adroit, with nimble fingers that can tie shoes, unwrap candies, and get the sand out from between my toes before we leave the beach.",
+    "I suppose I had the quick nimble fingers that it took to form the beautiful pieces.",
+    "In the demo, you are placed behind the controls of two different spacecraft, a light and nimble fighter and a large, cumbersome but powerful gunship.",
+    "The figure continued making his way down the house by grabbing appropriate ledges, and footholds from the balcony in a nimble movement.",
+    "Her nimble, agile body tense and ready, she pressed her feet into Jeff's shoulders.",
+    "His free arm moved to the pouches on her belt, his fingers deft and nimble as a squirrel as he purloined some component.",
+    "He did everything in his power to outrun us, especially after he saw the camera, but the Kia was no match lot the lighter, more nimble Prius.",
+    "The quick end to the war brought the angle to a merciful conclusion and McMahon shifted his nimble mind to the pursuit of other angles."
+  ],
+  "headword": "nimble",
+  "image": "nimblerr.jpg",
+  "ipa": "\u02c8n\u026amb\u0259l",
+  "match_word": "nimbler",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/nimble_us_1.mp3",
+  "senses": [
+    "quick and light in movement or action"
+  ],
+  "word": "nimble"
+}
+
+################################
+
+{
+  "card_id": "words_obeisance",
+  "examples": [
+    "they paid obeisance to the Prince",
+    "They also expected obeisance, deference, and acquiescence to their methods - even groveling - from me.",
+    "Many stories have come down to us of her cruelty: for example, that she had two serfs sent to Siberia for having failed to make their obeisances to her as she passed - because they did not see her.",
+    "It's interesting that he has drawn so much criticism for ascribing intrinsic value to this dialect without making the proper obeisance to external circumstances that accompanied its development.",
+    "The more timid paid obeisance to the policies of the founders, but they also snippily noted that \u2018their views were necessarily limited.\u2019",
+    "(GB) Emperors and officials of various dynasties including Emperor Qinshihuang in 210 BC made obeisance and offered sacrifices at the Mausoleum of Yu the Great.",
+    "(GB) The Bangkokians poured out on the roads to pay obeisance in temples.",
+    "(GB) Kantha Rao said he gradually got over his fear of snakes and would get at least a couple of them home from snake charmers every \u2018Subrahmanya Shashti\u2019 to pay obeisance to them.",
+    "(GB) Kirtans (devotional songs) rendered the air while the faithful paid obeisance and listened to the kirtans and the Gurbani (Guru's voice).",
+    "(GB) If you are outside when it starts playing you stop everything and show obeisance in your stillness.",
+    "(GB) A \u2018master of etiquette\u2019 oversees the behavior of those who attend a traditional Taiwanese funeral, informing them as to what obeisances to perform and when to perform them."
+  ],
+  "headword": "obeisance",
+  "image": "obeisancee.jpg",
+  "ipa": "o\u028a\u02c8bis\u0259ns",
+  "match_word": "obeisance",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/obeisance_us_1_rr.mp3",
+  "senses": [
+    "deferential respect"
+  ],
+  "word": "obeisance"
+}
+
+################################
+
+{
+  "card_id": "words_overt",
+  "examples": [
+    "an overt act of aggression",
+    "in untreated cases, overt psychosis may occur",
+    "(GB) The only exclusion criterion was overt signs of vitamin A deficiency, which was not present in any child.",
+    "(GB) When people are fearful they look to any overt power to act for them but we must remember that we can act for ourselves.",
+    "(GB) Sometimes a stab is an overt piece of aggression visible for all to see, but there are more subtle ways of achieving the same aims.",
+    "(GB) Clinical examination of the wisdom teeth and the x-ray did not show any overt pathology.",
+    "(GB) Aside from trade sanctions and other non-military acts has been this overt invasion of sovereignty.",
+    "(GB) These stories rarely take the form of something blatantly heinous like overt racism.",
+    "(GB) There was no overt political message because there was no apparent legal validation.",
+    "(GB) It's not an act of overt hostility like copy-control, but it's still a bit of a con.",
+    "(GB) It is Archie's first overt act of rebellion against his father, and as such a threshold event in his life.",
+    "(GB) The question still remained whether treating pressure in overt disease prevents progression."
+  ],
+  "headword": "overt",
+  "image": "overtt.png",
+  "ipa": "\u02c8o\u028av\u0259rt",
+  "match_word": "overt",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/overt_us_2_rr.mp3",
+  "senses": [
+    "done or shown openly"
+  ],
+  "word": "overt"
+}
+
+################################
+
+{
+  "card_id": "words_patio",
+  "examples": [
+    "the dining room looks out to a small patio",
+    "a patio table and chairs",
+    "We ate a little lunch outside under the shade of trees on a brick patio.",
+    "I heard the back door open and Jesse come out onto the backyard patio.",
+    "I would like to plant a queen palm to shade my patio.",
+    "Accommodation is arranged to give a maximum effect of volume and light, using internal patios to create a stimulating interplay of interior and exterior space.",
+    "He walked past me, toward the raised stone patio.",
+    "Did I mentioned we tiled the concrete patio?",
+    "The original building consisted of a wide perimeter block bisected by a pair of transverse wings to form three narrow internal patios.",
+    "The long thin office wings enclose two hermetic internal courtyards or patios.",
+    "(GB) Extra tall glazed doors open onto the west-facing rear patio.",
+    "(GB) A patio area to the back has a southerly aspect and attractive hanging baskets."
+  ],
+  "headword": "patio",
+  "image": "patioo.jpg",
+  "ipa": "\u02c8p\u00e6di\u02cco\u028a",
+  "match_word": "patio",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/patio_us_1.mp3",
+  "senses": [
+    "paved outdoor area adjoining house"
+  ],
+  "word": "patio"
+}
+
+################################
+
+{
+  "card_id": "words_plush",
+  "examples": [
+    "deep-buttoned plush upholstery",
+    "Snow Farm has a full service lodge with rooms ranging from comfortable to plush.",
+    "The room was richly and ornately decorated, and filled with large plush furniture.",
+    "We entered the house and I was surprised to find it very plush and expensively furnished.",
+    "Both of these places are pretty plush when compared to the outlying forward operating bases.",
+    "(GB) It's plush, it's gold, it's Grade-A listed, it's got pillars and original cornicing.",
+    "(GB) We meet in a tiny plush room in a posh London hotel which is the regular haunt for such interviews.",
+    "(GB) The village was beautiful in a twee way, our room at the hotel was big and plush, and the restaurant welcomed Edward and served posh grub.",
+    "(GB) The contribution of this fine tribal artist to the plush art galleries of cosmopolitan cities was remembered.",
+    "(GB) He had a plush house in Shrewsbury Road in upmarket Ballsbridge, as well as a number of other properties.",
+    "(GB) Here I am in New York, in a plush hotel suite overlooking Central Park."
+  ],
+  "headword": "plush",
+  "image": "plushh.jpeg",
+  "ipa": "pl\u0259\u0283",
+  "match_word": "plush",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/plush_us_1.mp3",
+  "senses": [
+    "rich fabric of silk, cotton, wool, or combination of these, with long, soft nap"
+  ],
+  "word": "plush"
+}
+
+################################
+
+{
+  "card_id": "words_puddles",
+  "examples": [
+    "splashing through deep puddles",
+    "a little puddle of light",
+    "I enjoyed an article written a couple of years ago about puddling on flat roofs.",
+    "Each ring is saturated with different quantities of blood, some thickly puddled and others so faint that the dried liquid clings to the outer circumferences.",
+    "Do not apply excessive amounts so that the spray puddles on the floors.",
+    "The blood was puddling on the floor, staining the old wooden floorboards, sinking into them permanently and painting them an eerie shade of crimson.",
+    "Prevent makeup from puddling in its tube by storing it in an air-conditioned room or popping it in your fridge.",
+    "A place still firmly rooted in old-time Americana, where kids puddle around in the shallows and dogs lap up fallen ice cream cones.",
+    "Watering from the bottom directs the water to the root zone and prevents puddling on the soil surface, which could lead to damping-off.",
+    "The applicator thoroughly soaks each moss spot until it puddles with the mixture by holding the nozzle about 1 inch from the surface.",
+    "In the 1780s, Henry Cort developed the puddling furnace, which allowed pig iron to be refined in turn with coke.",
+    "Stones melted like butter, sagging, dripping and puddling."
+  ],
+  "headword": "puddle",
+  "image": "puddless.png",
+  "ipa": "\u02c8p\u0259dl",
+  "match_word": "puddles",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/puddle_us_1.mp3",
+  "senses": [
+    "small pool of liquid",
+    "clay and sand mixed with water"
+  ],
+  "word": "puddle"
+}
+
+################################
+
+{
+  "card_id": "words_quagmire",
+  "examples": [
+    "torrential rain turned the building site into a quagmire",
+    "The natural extension of his work on the genetics of pigmentation led him into a study of piebald mice, this turned out to be a quagmire.",
+    "It is bogged down in a quagmire, and its credibility has been undermined internationally.",
+    "That helped explain why the river was so murky and why all the crossings were feculent quagmires of cow dung and mud, stirred up by scores of hooves and further churned by ATVs, whose tracks laced the riverbanks for miles above and below me.",
+    "One facet of this tragedy is the absence of visionary leadership capable of leading humanity out of its quagmire.",
+    "Joel, who isn't racing, is wise enough to stay out of the quagmire and cruise the scene at the top of the mountain.",
+    "There are few roads, and some of these are impassable quagmires in the rainy season.",
+    "Broad expanses of open sand undulate, sweeping up into steep mountains or falling off into lakes, ponds, and shallow quagmires of quicksand.",
+    "Welling provides an overview of the key debates in the contemporary field but becomes mired in a definitional quagmire.",
+    "The soil raised the planting beds, lifting plant roots out of the quagmire and allowing excess water to drain away.",
+    "(GB) This political quagmire does relate closely to the economic situation."
+  ],
+  "headword": "quagmire",
+  "image": "quagmiree.jpg",
+  "ipa": "\u02c8kw\u00e6\u0261\u02ccma\u026a(\u0259)r",
+  "match_word": "quagmire",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/quagmire_us_1.mp3",
+  "senses": [
+    "soft boggy area of land that gives way underfoot"
+  ],
+  "word": "quagmire"
+}
+
+################################
+
+{
+  "card_id": "words_rangy",
+  "examples": [
+    "a pale, rangy boy in his late teens",
+    "rangy pasture filled with horses and cattle",
+    "One dancer was rangy and goofy; another mischievous and full-bodied; another possessed.",
+    "Polley is a rangy player who covers ground with deceptive speed.",
+    "He has the lanky, rangy build of a classic power pitcher.",
+    "There was a sudden rustling in the trees and a dog, tall and rangy and beautiful, loped out.",
+    "But at that time, he was a tall, rangy heavyweight, barely 200 pounds.",
+    "The dark, rangy man behind the table stared the slender figure before him up and down.",
+    "A lean, rangy old cowboy with a lined and seamed face, he frequented a beer joint on the edge of town known colloquially as the Bloody Bucket.",
+    "The man was several inches taller than Russell, with the typical broad shoulders and rangy build of a professional seaman.",
+    "Williams is a rangy player who flies all over the field.",
+    "The one in the middle was tall and rangy and wore a shiny fake leather jacket and tight black jeans."
+  ],
+  "headword": "rangy",
+  "image": "rangyy.jpg",
+  "ipa": "\u02c8re\u026and\u0292i",
+  "match_word": "rangy",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/rangy_us_1.mp3",
+  "senses": [
+    "tall and slim with long, slender limbs",
+    "having room for ranging"
+  ],
+  "word": "rangy"
+}
+
+################################
+
+{
+  "card_id": "words_rattled_by_quake",
+  "examples": [
+    "the rumbling vibrations set the whole valley quaking",
+    "What is it about religion that leaves people quaking in their otherwise creative shoes?",
+    "Cable rivals in Texas insist they're not quaking in their cowboy boots.",
+    "\u2018No,\u2019 he shuddered, his once-mighty voice quaking with fear.",
+    "I don't think writers should be this godlike figure who reads from a podium and signs books while their fans quake before their greatness.",
+    "I am quaking with all-encompassing fear at the prospect, an act that may help to save me by keeping my body temperature up.",
+    "The trees trembled, the rocks quaked and all the animals fled in alarm.",
+    "But just as she was about to strike, the ground began to tremble and quake, knocking her off-balance, but she managed to regain her footing.",
+    "Turning her head, my mother saw a young girl of about 16 who stood shivering in fear and quaking from emotion.",
+    "Technicians misread critical monitors, and the core of the plant begins to tremble and quake.",
+    "With natural gas prices skyrocketing this winter, people aren't just shuddering from the cold - they're quaking at the thought of coming energy bills."
+  ],
+  "headword": "quake",
+  "image": "rattled by quakee.png",
+  "ipa": "kwe\u026ak",
+  "match_word": "rattled by quake",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/quake_us_1.mp3",
+  "senses": [
+    "shake or tremble"
+  ],
+  "word": "quake"
+}
+
+################################
+
+{
+  "card_id": "words_recluse",
+  "examples": [
+    "she has turned into a virtual recluse",
+    "he's a bit of a recluse",
+    "Other recluses of his day wrote in heightened language about the grand mountain settings of their retreats; their lives appear exotic and glamorous.",
+    "In his time, ascetics and recluses again made an attempt to enter the Guru's flock.",
+    "The majority had to severely restrict their lives by changing or abandoning work, curtailing all social activities, and becoming virtual recluses.",
+    "Socially inept recluses isolated in dimly lit rooms devoid of furniture and warmth, lacking friends and family, hating their jobs and life in general are the usual way in which single people are portrayed.",
+    "(GB) He lives as a virtual recluse on a rural estate near Andover, Hampshire, but owns shooting estates in Rosedale, North Yorkshire and other parts of Northern England.",
+    "(GB) Parents, psychologists and politicians are still struggling to find ways to coax these recluses - who are predominantly male - out of their self-imposed exiles.",
+    "(GB) The refusal of judges to give any interviews, under cover of antiquated \u2018rules\u2019 which a long forgotten lord chancellor had invented, compounded the sense that they were all, or almost all, malevolent recluses.",
+    "(GB) There are other figures whose lives, the details of which are hidden or only partially known, captivate us: eccentrics, artists, the recluses.",
+    "(GB) Though not hermits or recluses, they do enjoy their own space to ruminate about what makes the world go round not to mention what makes people tick.",
+    "(GB) In reaction to other philosophies of life the Taoists retreated and lived as recluses outside the milieu of society."
+  ],
+  "headword": "recluse",
+  "image": "reclusee.jpg",
+  "ipa": "r\u0259\u02c8klus",
+  "match_word": "recluse",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/recluse_us_2.mp3",
+  "senses": [
+    "person who lives solitary life and tends to avoid other people"
+  ],
+  "word": "recluse"
+}
+
+################################
+
+{
+  "card_id": "words_satchel",
+  "examples": [
+    "The man carried a small satchel on his back full to the brim with goods, but this year there were no customers.",
+    "Now, the police are taking things a step further, and have set up airport-style tables to inspect random shopping bags and satchels.",
+    "We sat down at the table in the lounge and that's when he handed me the satchel he was carrying.",
+    "Jim had been laid up for months and still carried a satchel full of medications.",
+    "He had stuffed his mother's old dishtowels into the satchels to keep the cans from banging together.",
+    "Bits and pieces of color were noticeable on the satchels but that was it.",
+    "They didn't speak for some time, until Faimon closed the book, and put it into his satchel.",
+    "At one point Marcos asked her to show everyone what she had in her satchel.",
+    "I was starting to get cabin fever and I quickly got up, gathering my books into my satchel.",
+    "They swept their toys, papers, and supplies into their satchels, and walked towards the building."
+  ],
+  "headword": "satchel",
+  "image": "satchell.jpg",
+  "ipa": "\u02c8s\u00e6t\u0283\u0259l",
+  "match_word": "satchel",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/satchel_us_1.mp3",
+  "senses": [
+    "bag carried on shoulder by long strap and closed by flap"
+  ],
+  "word": "satchel"
+}
+
+################################
+
+{
+  "card_id": "words_slime",
+  "examples": [
+    "the cold stone was wet with slime",
+    "The huge slugs were sliming their way around and activating the pools of red.",
+    "The bottom of my bags usually turn into a potpourri of sticky gum, tobacco, half eaten cough drops and pennies that are slimed in a foreign substance.",
+    "The roach enjoyed sliming its way across the human food stored in the kitchen, and occasionally it would wriggle through a child's hair in the middle of the night, just for fun, but that was all petty revenge.",
+    "To her great displeasure something had leaked in her backpack, a dark blue ooze had slimed a course all throughout the entire bag.",
+    "You'll imitate those spunky Olsen twins, getting slimed with green goo at the 17th annual Kids' Choice Awards.",
+    "A huge blue slug slimes its way toward the city's chief pedestrian piazza.",
+    "His hands were slimed in blood as well, tracing signs on the door as he muttered prayers and exhortations.",
+    "(GB) Yet, somehow, she made her character seem plausible, complex and (most remarkably) real, despite having to play scenes where she was attacked by yetis, slimed on by mutant moths and even inseminated with an alien baby.",
+    "(GB) His initial impressions were unfavourable: he hated the food (\u2018foul vinaigrette had been slimed over the salad\u2019) and was frightened by the prospect of having to speak the language.",
+    "(GB) There's Jill who has frizzy hair and who makes him think of \u2018a glass of orange juice slimed with ketchup fingers.\u2019"
+  ],
+  "headword": "slime",
+  "image": "slimee.jpg",
+  "ipa": "sla\u026am",
+  "match_word": "slime",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/slime_us_1.mp3",
+  "senses": [
+    "unpleasantly thick and slippery liquid substance"
+  ],
+  "word": "slime"
+}
+
+################################
+
+{
+  "card_id": "words_slugger",
+  "examples": [
+    "with one smashing left hook, the slugger punched his way to a world light-heavyweight title",
+    "Members of Congress are calling on some of baseball's biggest sluggers over the use of steroids.",
+    "Jack Dempsey showed boxing skills and was not just another primitive slugger.",
+    "On the day of the funeral, she was reportedly going to remarry legendary Yankees slugger Joe DiMaggio.",
+    "Major League Baseball weighs a punishment for two of the best-paid sluggers who cheated.",
+    "He was the young slugger who easily defeated fighters that had already beaten Ali.",
+    "High-tech bats have quickly become must-have equipment for nearly every slow-pitch softball player, from recreation league novices to elite sluggers.",
+    "We're going to tell you how you can own a piece of the baseball slugger's legacy.",
+    "Big sluggers were mere targets for Ali's quick hand.",
+    "He was unlike other, bigger sluggers since he had more endurance and appeared to be more elusive.",
+    "End speculation about how far that ball went, and find out how fast your favorite slugger swings."
+  ],
+  "headword": "slugger",
+  "image": "sluggerr.jpeg",
+  "ipa": "\u02c8sl\u0259\u0261\u0259r",
+  "match_word": "slugger",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/slugger_us_3.mp3",
+  "senses": [
+    "person who throws hard punches"
+  ],
+  "word": "slugger"
+}
+
+################################
+
+{
+  "card_id": "words_slurp",
+  "examples": [
+    "she slurped her coffee",
+    "he slurped noisily from a wine cup",
+    "She slurped her tea as loud as she could, blew on her sandwich, although it wasn't hot, and slouched in her chair.",
+    "Mom lectured as she snatched Jason's drink and began slurping it up.",
+    "Once we finished slurping our drinks and chomping down on pizza, we laughed hysterically at the guys' jokes and stories.",
+    "The point is that if you have had the pleasure of slurping a frostie, you know that they are pretty damn thick.",
+    "I was slurping minestrone soup at an Italian restaurant, laughing with a friend, when her cell phone rang.",
+    "As she slurped water noisily, I put her leash back in the drawer.",
+    "The last thing I remember before I drifted off to sleep was the annoying slurping noise of him sucking on his thumb.",
+    "When the waitress returned with everybody else's drinks, Jason snatched the white cappuccino mug and noisily slurped the foam beginning to overflow atop the glass.",
+    "They were both silent, Jake drank some of his chocolate, slurping it into his mouth.",
+    "(GB) Ko-chin looked curiously at Molly who was noisily slurping her soda."
+  ],
+  "headword": "slurp",
+  "image": "slurpp.jpg",
+  "ipa": "sl\u0259rp",
+  "match_word": "slurp",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/slurp_us_1.mp3",
+  "senses": [
+    "drink or eat something with loud sucking noise"
+  ],
+  "word": "slurp"
+}
+
+################################
+
+{
+  "card_id": "words_smolder",
+  "examples": [
+    "the bonfire still smoldered, the smoke drifting over the paddock",
+    "But it's cozier in there; the smolder of tobacco fumes collects on the structural beams that maintain the shelter and mixes with raw breath to mildew man and trench shoring.",
+    "Alexander watched the twin red-hot points of fire smoulder in the figure's flesh, but to his amazement, the wound healed before his eyes.",
+    "(GB) The smokestacks from the factories of Tokyo were belching black smolder into already fetid air."
+  ],
+  "headword": "smolder",
+  "image": "smolderr.jpg",
+  "ipa": "\u02c8smo\u028ald\u0259r",
+  "match_word": "smolder",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/smolder_us_2.mp3",
+  "senses": [
+    "burn slowly with smoke but no flame"
+  ],
+  "word": "smolder"
+}
+
+################################
+
+{
+  "card_id": "words_stipples",
+  "examples": [
+    "to finish, stipple the picture with the original base colour",
+    "I finally regained my sanity and stippled gold and copper acrylic paint on the back of each piece.",
+    "Using two small jewelry tags, stipple using olive and brown inks.",
+    "The molded grip has a combination of stippling and checkering, in addition to finger grooves, while the matte black finish of the entire gun enhances its \u2018real firearm\u2019 looks.",
+    "Often, too, she uses a stippled line that releases the contour of an object from the burden of carrying the whole depiction.",
+    "Texture the Copper clay by stippling with the ball tip stylus.",
+    "I over-stamped the Small Leaf with gold ink randomly on the frame, stamped the Dots and then stippled some color along the edges.",
+    "The flattened back strap and grip surfaces were stippled and coated in OD, as was the slide, which was fitted with AmeriGlo's triple-tritium dot, ghostring-and-post sight set.",
+    "Shearing surfaces are shown with a pattern of short grey lines, while broad crushing surfaces are stippled in grey.",
+    "I demonstrated first and then had the students try painting exercises such as stippling, wash, wet wash, glazing, scrubbing and applying strokes with the point, side and heel of the brush.",
+    "A wide variety of decorative painting techniques such as sponging, rag-rolling, and stippling can add a creative touch to your project."
+  ],
+  "headword": "stipple",
+  "image": "stippless.jpeg",
+  "ipa": "\u02c8st\u026ap\u0259l",
+  "match_word": "stipples",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/stipple_us_1.mp3",
+  "senses": [
+    "(in drawing, painting, and engraving) mark surface with numerous small dots or specks"
+  ],
+  "word": "stipple"
+}
+
+################################
+
+{
+  "card_id": "words_stubble",
+  "examples": [
+    "Severe head scab may develop when planting wheat no-till into corn stubble.",
+    "The practice of burning stubble in the cereal region also increased soil exhaustion.",
+    "Fields planted into soybean stubble last fall were challenged by dry conditions and difficulty getting proper drill penetration.",
+    "I could only probe the top two feet of soil in dryland soybean and corn stubble fields that have not been tilled.",
+    "No wonder I need a shave, Graham mused, rubbing his beard stubble with his free hand.",
+    "He scratched the stubble on his cheek, drinking in every centimeter of her.",
+    "The length of this regrowth period depends on the remaining stubble height and growing conditions.",
+    "Moving up his cheek, she could feel some rough stubble of his unshaven face.",
+    "I had to plow all the wheat stubble in order to establish my cover crops.",
+    "He ran his hand over his head, feeling the slight stubble."
+  ],
+  "headword": "stubble",
+  "image": "stubblee.jpg",
+  "ipa": "\u02c8st\u0259b(\u0259)l",
+  "match_word": "stubble",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/stubble_us_1.mp3",
+  "senses": [
+    "cut stalks of grain plants left sticking out of ground after grain is harvested"
+  ],
+  "word": "stubble"
+}
+
+################################
+
+{
+  "card_id": "words_sweeper",
+  "examples": [
+    "a street sweeper",
+    "His daughter told him that the city is hiring street sweepers; a friend mentioned a job with SEPTA cleaning trains; another put a word in with Hart's old construction union.",
+    "Player 1 passes straight out, then moves to sweeper to defend.",
+    "When morning comes and the street sweepers clean the gutters, they are sometimes followed by vacuum trucks, lest the runoff contaminate the storm drains.",
+    "Together these activities cut across every level of city government from the street sweepers to the highest elected officials and jurists.",
+    "(GB) We drop through a vertical cave full of sweepers that opens to a crack in the reef wall.",
+    "(GB) For their efforts the street sweepers receive around 100 leva a month, which, after tax, is reduced to somewhere between 80 and 90 leva.",
+    "(GB) Kennet District Council has taken three mechanical road sweepers out of service after they continually broke down.",
+    "(GB) We gave up and, hoping to escape the surge, entered the hull through a small hole, where we joined hundreds of sweepers, several large snapper and a menacing-looking grouper.",
+    "(GB) To me he is a natural sweeper, he reads the game well for a young player but at times he is too slow on the ball and a little languid.",
+    "(GB) Even before dawn breaks over the city, hordes of sweepers and casual workers fan out into the streets."
+  ],
+  "headword": "sweeper",
+  "image": "sweeperr.jpg",
+  "ipa": "\u02c8swip\u0259r",
+  "match_word": "sweeper",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/sweeper_us_1.mp3",
+  "senses": [
+    "person or device that cleans floor or road by sweeping",
+    "small nocturnal shoaling fish of reefs and coastal waters"
+  ],
+  "word": "sweeper"
+}
+
+################################
+
+{
+  "card_id": "words_swine",
+  "examples": [
+    "what an arrogant, unfeeling swine!",
+    "You will pay for your offense, miserable swine!",
+    "The virus explosively increased among domesticated swine.",
+    "Taeniid tapeworms have a global economic impact because of the production losses in domestic stock, including cattle and swine.",
+    "We will take what you exploited from others, you capitalist swine!",
+    "Taking her brother's arm, she said a silent prayer that this pirate would not die at the hands of that swine.",
+    "I told you, I will not have you married to that swine.",
+    "Just some advice from me because I like you, you swine.",
+    "Because of changes in the pork industry, which have occurred over the years, the prevalence of infection in swine and humans has declined dramatically in the U. S.",
+    "Those words - her own excuse - should have reassured her, should have secured her faith that he was not an honourless swine, but they didn't.",
+    "For your brave action, I bestow on you the honor of skinning the swine."
+  ],
+  "headword": "swine",
+  "image": "swinee.jpg",
+  "ipa": "swa\u026an",
+  "match_word": "swine",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/swine_us_1.mp3",
+  "senses": [
+    "pig",
+    "contemptible or unpleasant person"
+  ],
+  "word": "swine"
+}
+
+################################
+
+{
+  "card_id": "words_tipsy",
+  "examples": [
+    "tipsy revellers",
+    "He held the glass in a slightly tipsy toast, speaking to the picture in a slightly slurred voice.",
+    "(GB) In the 25 years I've known her, I have only seen her drunk once and tipsy thrice.",
+    "(GB) Damien was also pleased to notice she was slightly tipsy on her feet.",
+    "(GB) I got back to the dorm half an hour later, slightly tipsy, and wanting my boyfriend's arms around me.",
+    "(GB) All this is accompanied by a bottle of the restaurant's own champagne making us slightly tipsy and drowsy.",
+    "(GB) A lot of very civilised, if slightly tipsy, wine tasting and cheese eating followed.",
+    "(GB) I still haven't understood why I get tipsy in a couple of glasses of wine but I can drink gallons of other things before it makes a difference.",
+    "(GB) Being slightly tipsy, he forgot to put on his white gloves at the start of the parade.",
+    "(GB) I was slightly tipsy as I'd had a few more glasses of that punch.",
+    "(GB) You may remember that I spent most of the ball slightly tipsy and at the same time I was trying to quit smoking."
+  ],
+  "headword": "tipsy",
+  "image": "tipsyy.jpeg",
+  "ipa": "\u02c8t\u026apsi",
+  "match_word": "tipsy",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/tipsy_us_1.mp3",
+  "senses": [
+    "slightly drunk"
+  ],
+  "word": "tipsy"
+}
+
+################################
+
+{
+  "card_id": "words_trellis",
+  "examples": [
+    "In the summer and fall, they run a popular fruit stand, housed in an old converted picker's cabin with picnic tables, trellised apple trees, and a breath-taking view of Mt. Hood.",
+    "A porch extended from the kitchen to a trellised walk dripping wisteria in the spring.",
+    "They bought the property nine years ago so they'd have more room for their own garden, which includes a fruit orchard, a maze made of trellised raspberry bushes, and enough vegetables to supply a small army.",
+    "And if you grow them, I recommend that you trellis them.",
+    "A whimsical high arched pavilion with a trellised canopy rises on spindle columns, which are fine twisted supports, from a fragile stepped garden bridge with a pierced fretwork balustrade echoing that of the head of the bed.",
+    "In my travels to gardens and farms around the world, I've seen a variety of inventive ways to trellis tomato plants.",
+    "Two have elegant trellised porches and verandas in the fashionable Regency style.",
+    "Choose pole beans over bush beans, and trellis them along the back of a container.",
+    "The mixture of Provencal and Normandine exterior was punctuated with trellised ivy.",
+    "The salad garden grows colorful lettuce, basil, tarragon and trellised peas."
+  ],
+  "headword": "trellis",
+  "image": "trelliss.jpg",
+  "ipa": "\u02c8tr\u025bl\u026as",
+  "match_word": "trellis",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/trellis_us_1.mp3",
+  "senses": [
+    "framework of light wooden or metal bars used as support for fruit trees or creepers"
+  ],
+  "word": "trellis"
+}
+
+################################
+
+{
+  "card_id": "words_trough_planters",
+  "examples": [
+    "a water trough",
+    "Most of today's estuaries formed because the sea level has slowly risen during the last 18,000 years, drowning river valleys and filling in glacial troughs.",
+    "Well, mainly it's going to pick up the pace because of that trough of low pressure, that cold front.",
+    "Channeling of water down the fin by troughs or rubber channels does not appear to improve thrust or economy.",
+    "Behind our neighborhood, originating in the native compounds, were endless sewer troughs - a spider web of two-foot wide canals that diverted water from rivers and streams.",
+    "Once he was satisfied they were cooled, he led them to the water trough for a well-earned drink.",
+    "Therefore, such models were tested in a curved wooden trough.",
+    "Install proper eave troughs and downspouts on poultry houses to carry rain water far away from the buildings.",
+    "He gathered the reins and led the animal to the water trough.",
+    "Deep troughs do precede these monster waves, swallowing ships as they careen into the trough and are entombed by thousands of tons of water from the breaking wave.",
+    "Among the small channels and troughs in the rocks, iceberg fragments were washing back and forth."
+  ],
+  "headword": "trough",
+  "image": "trough planterss.jpg",
+  "ipa": "tr\u0254f",
+  "match_word": "trough planters",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/trough_us_1.mp3",
+  "senses": [
+    "long, narrow open container for animals"
+  ],
+  "word": "trough"
+}
+
+################################
+
+{
+  "card_id": "words_yolk",
+  "examples": [
+    "two yolks",
+    "a mass of yolk",
+    "These new noodles substitute soy flour for semolina flour and may contain egg whites or yolks to boost protein.",
+    "In contrast to the fluid yolk of atherinomorphs, yolk is organized into globules in other taxa.",
+    "Whole egg protein contains yolks and whites, providing a high ratio of indispensable amino acids.",
+    "The yolks were homogenized with 1 ml water per gram of yolk.",
+    "Fresh eggs from free-range chickens will produce a stronger binder because of the rich, viscous yolks.",
+    "In this study, we investigated differences in maternally deposited yolk testosterone and DHT in relation to diet quality.",
+    "Use hands to slowly incorporate yolks into potato and flour mixture.",
+    "Gradually pour half of hot milk mixture over yolks while whisking constantly.",
+    "You may be used to eating the whites and discarding the yolks, but skip that step during pregnancy because the yolks provide extra calories, Vitamin D and folic acid.",
+    "Leftover raw egg whites and yolks should be put in airtight containers and refrigerated immediately, then used within a day or two."
+  ],
+  "headword": "yolk",
+  "image": "yolkk.jpg",
+  "ipa": "jo\u028ak",
+  "match_word": "yolk",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/yolk_us_1.mp3",
+  "senses": [
+    "yellow internal part of bird's egg, which is surrounded by white, is rich in protein and fat, and nourishes developing embryo"
+  ],
+  "word": "yolk"
+}
+
+################################
+

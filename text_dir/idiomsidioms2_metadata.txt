@@ -1,0 +1,1252 @@
+{
+  "card_id": "idioms_a_penny_for_your_thoughts",
+  "examples": [
+    "When did the phrase \"a penny for your thoughts\" originate?",
+    "I haven't heard anyone say that for years - a penny for your thoughts.",
+    "It's in this book that we find the earliest known citation of the line, \"A penny for your thoughts.\"",
+    "(GB) So, a penny for your thoughts here: what criteria, if any, should be applied in selecting names?",
+    "(GB) Next time someone offers you a penny for your thoughts\u2026 sell!"
+  ],
+  "headword": "a_penny_for_your_thoughts",
+  "image": "a penny for your thoughts\t.jpg",
+  "ipa": "",
+  "match_word": "a penny for your thoughts",
+  "pronounciation": "idioms_a_penny_for_your_thoughts_wpron.mp3",
+  "senses": [
+    "used to ask someone what they are thinking about"
+  ],
+  "word": "a penny for your thoughts"
+}
+
+################################
+
+{
+  "card_id": "idioms_actions_speak_louder_than_words",
+  "examples": [
+    "technospeak"
+  ],
+  "headword": "-speak",
+  "image": "actions speak louder than words\t.jpg",
+  "ipa": "spik",
+  "match_word": "actions speak louder than words",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/_speak_1_us_3.mp3",
+  "senses": [
+    "forming nouns denoting manner of speaking, characteristic of specified field or group"
+  ],
+  "word": "-speak"
+}
+
+################################
+
+{
+  "card_id": "idioms_beat_around_the_bush",
+  "examples": [
+    "But no more beating about the bush, I'll just come right out with it.",
+    "(GB) Using research compiled last February in student focus groups, Bank of Ireland was told to stop beating about the bush with gimmicks and be more direct in asking for students' business.",
+    "(GB) Let's not beat about the bush, the sort of people who drop litter are the sort who do not usually give a damn about anybody or anything.",
+    "(GB) But then everybody must stop beating about the bush and tell it like it is.",
+    "(GB) From there, the play got deeper, darker and, let's not beat about the bush, much, much more watchable.",
+    "(GB) He doesn't beat about the bush, as I'm barely through the door before he starts speaking.",
+    "(GB) There is no point in being ambiguous or beating about the bush.",
+    "(GB) There is no need to beat about the bush when talking to children - you can be more direct with them than you might think.",
+    "(GB) So, without any further beating about the bush, I present this week's question.",
+    "(GB) \u2018I don't think we ought to beat about the bush,\u2019 he joked."
+  ],
+  "headword": "beat_around_%28or_beat_about%29_the_bush",
+  "image": "beat around the bush\t.jpg",
+  "ipa": "",
+  "match_word": "beat around the bush",
+  "pronounciation": "idioms_beat_around_the_bush_wpron.mp3",
+  "senses": [
+    "discuss matter without coming to point"
+  ],
+  "word": "beat around (or beat about) the bush"
+}
+
+################################
+
+{
+  "card_id": "idioms_bite_off_more_than_you_can_chew",
+  "examples": [
+    "Jack joked about biting off more than you can chew, and held out a smaller hand than Carol's.",
+    "\u2018Boy,\u2019 snickered one of the councilors, \u2018despite your victory against Ignus, I think you're biting off more than you can chew here.\u2019",
+    "One way to check whether you're being realistic is to ask close friends who can be honest and candid with you about whether you're biting off more than you can chew.",
+    "If you're hoofing or riding roundtrip, don't bite off more than you can chew.",
+    "The problem isn't tennis; it's biting off more than you can chew and trying to swallow it in one big gulp.",
+    "Don't bite off more than you can chew.",
+    "While biting off more than one can chew is arduous, the practice concept is necessary.",
+    "(GB) So be there six sharp - make your own forensic analysis, bite off more than you can chew and catch some local talent at the same time.",
+    "(GB) There is always the danger of biting off more than you can chew; of going out to save the world before even beginning to save yourself and the people around you.",
+    "(GB) Tell them that you were just anxious to be as open as possible and maybe you bit off more than you could chew."
+  ],
+  "headword": "bite_off_more_than_one_can_chew",
+  "image": "bite off more than you can chew\t.jpeg",
+  "ipa": "",
+  "match_word": "bite off more than you can chew",
+  "pronounciation": "idioms_bite_off_more_than_you_can_chew_wpron.mp3",
+  "senses": [
+    "take on commitment one cannot fulfil"
+  ],
+  "word": "bite off more than one can chew"
+}
+
+################################
+
+{
+  "card_id": "idioms_blow_off_steam",
+  "examples": [
+    "I needed something to help them blow off steam and energy.",
+    "(GB) That was a raucous blast of rock energy, Adams letting off steam.",
+    "(GB) If your child is bursting with energy, let him run around to let off steam before moving on to more calming activities.",
+    "(GB) Surprisingly the defence that this is war, or that our enemies do worse, hasn't been made as loudly made as when troops tortured prisoners to let off steam.",
+    "(GB) We've danced to let off steam, to express ourselves and get rid of excess energy, we've danced to attract a partner and for religious reasons.",
+    "(GB) Caroline, who is a part-time support worker for Young Carers, believes children such as Steffanie need a weekly outlet to let off steam and be children.",
+    "(GB) But many voters see the referendum as a chance to let off steam over what they regard as the government's economic policy failures.",
+    "(GB) Playing does much more than just help kids let off steam, according to City of York Council, which has launched an initiative to get more youngsters enjoying themselves.",
+    "(GB) But she just didn't understand why she couldn't run around and let off steam with the other dogs.",
+    "(GB) Sometimes I think the only thing they achieve is that people can let off steam."
+  ],
+  "headword": "let_%28or_blow%29_off_steam",
+  "image": "blow off steamm.jpeg",
+  "ipa": "",
+  "match_word": "blow off steam",
+  "pronounciation": "idioms_blow_off_steam_wpron.mp3",
+  "senses": [
+    "get rid of pent-up energy or strong emotion"
+  ],
+  "word": "let (or blow) off steam"
+}
+
+################################
+
+{
+  "card_id": "idioms_break_a_leg",
+  "examples": [
+    "\u2018Break a leg!\u2019 I call after her.",
+    "Break a leg, and I'll join you on stage when you give the cue.",
+    "\u2018Break a leg,\u2019 he whispered in my ear before releasing me.",
+    "(GB) Invariably, producers, managers, director and fellow cast members decide to pop their heads around dressing-room doors for a quick chat and a cheery \u2018Break a leg, darling.\u2019"
+  ],
+  "headword": "break_a_leg%21",
+  "image": "break a leg\t.jpeg",
+  "ipa": "",
+  "match_word": "break a leg",
+  "pronounciation": "idioms_break_a_leg_wpron.mp3",
+  "senses": [
+    "good luck !"
+  ],
+  "word": "break a leg!"
+}
+
+################################
+
+{
+  "card_id": "idioms_break_the_ice",
+  "examples": [
+    "Although watching together broke the ice, the tension was still there.",
+    "He had to break the ice before she would really engage in a conversation.",
+    "And so the audience laughed and that kind of broke the ice.",
+    "If you understand a culture, you can break the ice in conversation, make a joke, or construct a speech better.",
+    "I offered, trying to keep the conversation to a minimum and break the ice at the same time.",
+    "(GB) However, a smile and a \u2018Bonjour\u2019 was usually sufficient to break the ice in any conversation.",
+    "(GB) I thought if I had one at home I could use it as a conversation piece, to break the ice at parties.",
+    "(GB) The bartender decided to break the ice and make a little conversation.",
+    "(GB) In an attempt to break the ice, I rack my brain to continue the conversation.",
+    "(GB) Perhaps next time, we should break the ice and make proper conversation."
+  ],
+  "headword": "break_the_ice",
+  "image": "break the ice\t.jpg",
+  "ipa": "",
+  "match_word": "break the ice",
+  "pronounciation": "idioms_break_the_ice_wpron.mp3",
+  "senses": [
+    "do or say something to relieve tension"
+  ],
+  "word": "break the ice"
+}
+
+################################
+
+{
+  "card_id": "idioms_by_the_skin_of_teeth",
+  "examples": [
+    "I only got away by the skin of my teeth",
+    "On the other end of the spectrum are cases in which a conviction is sustained, but in some ways almost by the skin of their teeth.",
+    "Well, I think they got out of this by the skin of their teeth from their point of view.",
+    "(GB) At Pennypit, meanwhile, Berwick held on to third spot by the skin of their teeth with a one-point 26-25 win over Preston Lodge.",
+    "(GB) A Hampshire firefighter based at Redbridge Fire Station said: \u2018They only got out by the skin of their teeth.\u2019",
+    "(GB) In the earlier game the Eagles got home by the skin of their teeth.",
+    "(GB) \u2018You have escaped prison by the skin of your teeth,\u2019 the judge told him.",
+    "(GB) As the ball was kicked out referee Pet Moran blew the full time whistle with Portlaoise holding out by the skin of their teeth.",
+    "(GB) Shepherd \u2018B\u2019 won by the skin of their teeth to go second.",
+    "(GB) The Oxford University Pool Team has not lost to Cambridge since 1999, when the \u2018rascal Tabs\u2019 managed to grind out a 46-44 victory by the skin of their teeth.",
+    "(GB) You have escaped from going to prison by the skin of your teeth."
+  ],
+  "headword": "by_the_skin_of_one%27s_teeth",
+  "image": "by the skin of teethh.jpeg",
+  "ipa": "",
+  "match_word": "by the skin of teeth",
+  "pronounciation": "idioms_by_the_skin_of_teeth_wpron.mp3",
+  "senses": [
+    "by very narrow margin"
+  ],
+  "word": "by the skin of one's teeth"
+}
+
+################################
+
+{
+  "card_id": "idioms_comparing_apples_to_oranges",
+  "examples": [
+    "unless you also drove a Corolla on the same roads as the A8, you're comparing apples and oranges",
+    "In your analysis, you are comparing apples and oranges.",
+    "I mean, we are really talking apples and oranges when we compare these religions.",
+    "Like apples and oranges, they are simply different.",
+    "The second point is that in comparing the average house of today with the average house of twenty, forty or a hundred years ago, we are mixing apples and oranges.",
+    "The problem, he says, is that you're comparing apples and oranges - empty space and fully equipped, fully staffed space.",
+    "It's like apples and oranges - there is no comparison.",
+    "But (as I noted before), we compare apples and oranges all the time!",
+    "But publishers argue that the report mixed apples and oranges.",
+    "(GB) But perhaps we're comparing apples and oranges.",
+    "(GB) Some would say this is apples and oranges, that recreational golf is different to tournament golf."
+  ],
+  "headword": "apples_and_oranges",
+  "image": "comparing apples to oranges\t.png",
+  "ipa": "",
+  "match_word": "comparing apples to oranges",
+  "pronounciation": "idioms_comparing_apples_to_oranges_wpron.mp3",
+  "senses": [
+    "used with reference to two things that are fundamentally different"
+  ],
+  "word": "apples and oranges"
+}
+
+################################
+
+{
+  "card_id": "idioms_cram",
+  "examples": [
+    "the ashtray by the bed was crammed with cigarette butts",
+    "lectures were called off so students could cram for finals",
+    "Sitara wandered over to the round tables, were several students crammed together, their heads bent and studying.",
+    "To say I crammed too many tomatoes into that small section is an understatement.",
+    "Justine remembered that Kylie had been cramming mightily for the test when they last spoke.",
+    "Unlike fanatical me, they were all planning on cramming for their finals.",
+    "I crammed for a week before taking Step 2 of the Boards.",
+    "So we all crammed into the car and headed to the Dells.",
+    "Once again, writers like to cram a lot of material into a single sentence.",
+    "Even for a fast learner, though, four months is an awfully short time to cram.",
+    "Like all the entries in the encyclopedia, this one is crammed with details.",
+    "The two college students cramming for finals at the next table certainly agreed."
+  ],
+  "headword": "cram",
+  "image": "cramm.jpeg",
+  "ipa": "kr\u00e6m",
+  "match_word": "cram",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/cram_us_1.mp3",
+  "senses": [
+    "completely fill place or container",
+    "study intensively just before examination"
+  ],
+  "word": "cram"
+}
+
+################################
+
+{
+  "card_id": "idioms_don't_cry_over_spilt_milk",
+  "examples": [
+    "(GB) \u2018It's obviously very disappointing when you lose your captain and inspiration but it's no use crying over spilt milk,\u2019 said Wigan coach Dennis Betts.",
+    "(GB) I guess it's no use crying over spilt milk, but I do remember feeling a sense of disappointment as these features were dropped from Vista."
+  ],
+  "headword": "it%27s_no_use_crying_over_spilt_%28or_spilled%29_milk",
+  "image": "don't cry over spilt milk\t.jpg",
+  "ipa": "",
+  "match_word": "don't cry over spilt milk",
+  "pronounciation": "idioms_don't_cry_over_spilt_milk_wpron.mp3",
+  "senses": [
+    "there is no point in regretting something which has already happened and cannot be changed or reversed"
+  ],
+  "word": "it's no use crying over spilt (or spilled) milk"
+}
+
+################################
+
+{
+  "card_id": "idioms_down_to_earth",
+  "examples": [
+    "a down-to-earth view of marriage",
+    "All point to the author's sense of measure and humor, his down-to-earth view of himself.",
+    "(GB) It doesn't actually matter how practical and down-to-earth a mother might be.",
+    "(GB) We're not big, really, but I'm so glad to have Vince, because he's down-to-earth and realistic.",
+    "(GB) She was a down-to-earth, witty, charming and an intelligent girl, highly articulate.",
+    "(GB) He brings with him a deep spirituality, a breadth of experience and a wealth of Yorkshire humour and down-to-earth common sense.",
+    "(GB) Everything else that I do is of a less down-to-earth, practical nature.",
+    "(GB) She dealt with the crosses handed her in life with a practical and down-to-earth approach.",
+    "(GB) Many, perhaps most, are pragmatic people who deliberately cultivate a down-to-earth, practical image.",
+    "(GB) Mostly they deal with the kind of down-to-earth, practical situations that horary astrologers thrive on to this day.",
+    "(GB) There may be a rational, down-to-earth explanation but I'm at a complete loss as to what it could be."
+  ],
+  "headword": "down-to-earth",
+  "image": "down to earthh.jpg",
+  "ipa": "",
+  "match_word": "down to earth",
+  "pronounciation": "idioms_down_to_earth_wpron.mp3",
+  "senses": [
+    "with no illusions or pretensions"
+  ],
+  "word": "down-to-earth"
+}
+
+################################
+
+{
+  "card_id": "idioms_feeling_blue;_have_the_blues",
+  "examples": [
+    "a feeling of joy",
+    "he had the feeling that he was being watched",
+    "a loss of feeling in the hands",
+    "he seems to have little feeling for art",
+    "Most of them possess no souls and an inhuman ability to disregard all forms of emotion and feeling.",
+    "He seemed shocked for a second but that emotion was soon taken over by the much stronger feeling of pain.",
+    "My hand glowed with that bright light, and a fuzzy warm feeling came into my fingers.",
+    "The churning feeling of pain gurgled up through his body as he tried to sit up.",
+    "I want you to listen what he said, what his sense, what his feeling is right now.",
+    "When you are fifty, you constantly have this strong feeling that you are wasting your time.",
+    "One can be gripped by a vague feeling of claustrophobia, as if entering an underground tomb.",
+    "My strong gut feeling is that she wants you to break up with her, or she wants to prepare you for impending breakup.",
+    "Sneers and bad feelings had grown stronger at Kat's slight improvement in mood.",
+    "I could not help but love that quality about her and it only added to my feelings that were growing stronger each day."
+  ],
+  "headword": "feeling",
+  "image": "feeling blue; have the bluess.jpg",
+  "ipa": "\u02c8fil\u026a\u014b",
+  "match_word": "feeling blue; have the blues",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/feeling_us_1.mp3",
+  "senses": [
+    "emotional state or reaction",
+    "belief",
+    "capacity to feel material things",
+    "intuitive understanding of"
+  ],
+  "word": "feeling"
+}
+
+################################
+
+{
+  "card_id": "idioms_going_dutch",
+  "examples": [
+    "She makes up for it by insisting on going Dutch on less formal occasions and making us dinner at her place fairly often.",
+    "I mean, if you ever date one, go Dutch, or you'll be spending the rest of your life working off the debt.",
+    "I'll pay for it, or we'll go Dutch, if that offends your sensitivities.",
+    "(GB) Will Tottenham go Dutch with their summer transfer targets?",
+    "(GB) Logically the following may be a good idea: a female job-loser and a male manager dine together and then they go Dutch.",
+    "(GB) I've resolved that this government should go Dutch.",
+    "(GB) Then again, he's probably terrified this will encourage other nice restaurants to adopt this practice, which means the end of going Dutch on dates.",
+    "(GB) In effect, it would amount to going Dutch in a month.",
+    "(GB) The net result, Germany, which was sailing with a 1-lead, had to accept the rival's credo: go Dutch!",
+    "(GB) And more to the point, I'm very strict about going Dutch, so that's even more money."
+  ],
+  "headword": "go_dutch",
+  "image": "going dutchh.png",
+  "ipa": "",
+  "match_word": "going dutch",
+  "pronounciation": "idioms_going_dutch_wpron.mp3",
+  "senses": [
+    "share cost of something equally"
+  ],
+  "word": "go Dutch"
+}
+
+################################
+
+{
+  "card_id": "idioms_he_has_bigger_fish_to_fry",
+  "examples": [
+    "But the people exploiting this saga have other fish to fry.",
+    "But I think we have to put that anger and rage aside and wait until the appropriate time, because we have bigger fish to fry.",
+    "Its an old trick I learned a long time ago, sometime I'll teach you, but right now we have bigger fish to fry.",
+    "So I think we ought to respect this threat and we ought to be very careful, but obviously we still have other fish to fry with the international terrorist network.",
+    "(GB) He's not well liked, but this week, the housemates have bigger fish to fry.",
+    "(GB) To be honest it's a trivial matter and I have bigger fish to fry.",
+    "(GB) The CEO obviously felt he had bigger fish to fry as he pursued an ambitious overseas expansion strategy.",
+    "(GB) They have been ignored by the vast majority of Irish politicians who appear to have bigger fish to fry at home.",
+    "(GB) For quite a number of years now, they've had bigger fish to fry.",
+    "(GB) If an inner city parent ignores a summons, the police and courts have bigger fish to fry."
+  ],
+  "headword": "have_other_%28or_bigger%29_fish_to_fry",
+  "image": "he has bigger fish to fry\t.png",
+  "ipa": "",
+  "match_word": "he has bigger fish to fry",
+  "pronounciation": "idioms_he_has_bigger_fish_to_fry_wpron.mp3",
+  "senses": [
+    "have other or more important matters to attend to"
+  ],
+  "word": "have other (or bigger) fish to fry"
+}
+
+################################
+
+{
+  "card_id": "idioms_he's_a_chip_off_the_old_block",
+  "examples": [
+    "Is his son a chip off the old block in interest in international affairs?",
+    "Somebody looked at me, then at my father and decided, \u2018He's a chip off the old block.\u2019",
+    "Scott had taken Sean's promotion at the law firm, and Mr. Sinclair had no doubt in his mind that Brandon was a chip off the old block.",
+    "Daniel '71, Ph.D. '78 (early Islamic history), is what old-timers would call a chip off the old block.",
+    "(GB) Yes, perhaps Ferry is a chip off the old block after all.",
+    "(GB) And five years after that reunion, there is no doubt now that Ford is very much a chip off the old block.",
+    "(GB) He might even turn out to be a chip off the old block.",
+    "(GB) If young Les proves to be a chip off the old block, then Workers are, indeed, in good hands.",
+    "(GB) Renowned as a playboy who has dated a string of Indonesian starlets, Tommy is, as the saying goes, a chip off the old block.",
+    "(GB) And he's a brick, a chip off the old block, a good \u2018un."
+  ],
+  "headword": "a_chip_off_the_old_block",
+  "image": "he's a chip off the old block\t.jpg",
+  "ipa": "",
+  "match_word": "he's a chip off the old block",
+  "pronounciation": "idioms_he's_a_chip_off_the_old_block_wpron.mp3",
+  "senses": [
+    "someone who resembles their parent in character or appearance"
+  ],
+  "word": "a chip off the old block"
+}
+
+################################
+
+{
+  "card_id": "idioms_head_over_heels",
+  "examples": [
+    "I immediately fell head over heels for Don",
+    "As per usual, he tumbled and flipped head over heels in a posing routine that brought the house - and the lights - down one more time.",
+    "She cried out in pain and watched in amazement, as her attacker seemed to fly backward and fall head over heels over her bed.",
+    "He tumbled down the incline, head over heels amid falling debris, and thudded against something soft.",
+    "In his eagerness to greet us, he tumbles down the steps head over heels.",
+    "Do NOT roll head over heels as if doing a forward somersault.",
+    "I fell head over heels in love with a wonderful man who I truthfully still love.",
+    "Amy braced, but was still blown backwards by the strong wind, tumbling head over heels and desperately trying to right herself or at least control her movements.",
+    "I realized that I not only loved him, but I was head over heels in love with him.",
+    "She tumbled head over heels right into the arms of a boy.",
+    "In doing this though he lost his balance and tumbled head over heels out of the window."
+  ],
+  "headword": "head_over_heels",
+  "image": "head over heelss.jpg",
+  "ipa": "",
+  "match_word": "head over heels",
+  "pronounciation": "idioms_head_over_heels_wpron.mp3",
+  "senses": [
+    "turning over completely in forward motion",
+    "madly in love"
+  ],
+  "word": "head over heels"
+}
+
+################################
+
+{
+  "card_id": "idioms_hit_the_sack",
+  "examples": [
+    "I recommend you clean your face with a scrubbing gel in the morning before going to work or at night before hitting the sack.",
+    "Once the two were out of hearing range, Stacy turned to Jen and asked, \u2018So you hitting the sack with Michael or what?\u2019",
+    "By the time we hit the sack, it was after two in the morning.",
+    "I know there was no wound on my wrist before hitting the sack because upon retiring I took off my watch and did not observe any blemish in the left wrist area.",
+    "Man oh man, he kept talkin\u2019 about some Model T Ford and all I wanted was to hit the sack.",
+    "I work so hard all day long that when I finally get to get upstairs, I'm ready to hit the sack or just settle in and read.",
+    "(GB) After his long 11-hour workday you'd think Lipani would hit the sack.",
+    "(GB) Well reckon I should hit the sack else I won't be able to get up tomorrow!",
+    "(GB) Got home around 12:30 or so, played around on the computer for a bit, then finished up Charlotte's Web before hitting the sack.",
+    "(GB) Anyhow, I want to do some reading before I hit the sack."
+  ],
+  "headword": "hit_the_sack",
+  "image": "hit the sack\t.jpg",
+  "ipa": "",
+  "match_word": "hit the sack",
+  "pronounciation": "idioms_hit_the_sack_wpron.mp3",
+  "senses": [
+    "go to bed"
+  ],
+  "word": "hit the sack"
+}
+
+################################
+
+{
+  "card_id": "idioms_jack_up_the_prices",
+  "examples": [
+    "(GB) The process by which Mr Derek Fox got himself to be appointed as the chief executive officer of the Maori Television Service was nothing less than a monumental jack-up - and that Minister knows it.",
+    "(GB) The tribute came after the Court of Appeal ruled that men on jack-up oil rigs could enjoy the same tax benefits as seafarers.",
+    "(GB) During the repair work a jack-up barge collapsed due to unforeseeable sea-bed conditions.",
+    "(GB) But it is important for the record to be put straight, and for the people of west Auckland and of New Zealand to know that Mr Tamihere has been the subject of a well-planned and well-orchestrated witch-hunt and jack-up.",
+    "(GB) The editor of the Sunday Star-Times has embarked on one of the most transparently unprofessional jack-ups in New Zealand's journalistic history.",
+    "(GB) That was a politically motivated jack-up a couple of weeks before an election.",
+    "(GB) The jack-up rig with its attendant work boat has been busy drilling and sampling the rock bottom of the harbour and bay while ashore a mobile drilling rig has been sampling along the breakwater.",
+    "(GB) Aminex chief executive Brian Hall said: \u2018We have carefully reviewed all the drilling options for Nyuni and conclude that a jack-up rig is the most effective and appropriate option for drilling in this area.\u2019",
+    "(GB) One option would be for exploration companies to club together to send a semi-submersible or jack-up rig to the East Coast, drilling a well in each of the four areas over the next four years at cost of $25 million each.",
+    "(GB) The biggest bill of the year is set to be passed under urgency this week after a jack-up between Labour and NZ First."
+  ],
+  "headword": "jack-up",
+  "image": "jack up the pricess.jpg",
+  "ipa": "\u02c8d\u0292\u00e6k\u02cc\u0259p",
+  "match_word": "jack up the prices",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/jack_up_1_us_1.mp3",
+  "senses": [
+    "offshore drilling rig legs"
+  ],
+  "word": "jack-up"
+}
+
+################################
+
+{
+  "card_id": "idioms_miss_the_boat",
+  "examples": [
+    "the company missed the boat with its first attempt at a computer line five years ago",
+    "Like many other aspects of the industry, they are missing the boat on technological advances that you all need to be a part of.",
+    "Because it is now so easy to work together virtually, not doing so is not only missing an opportunity, it is missing the boat.",
+    "If a dealer isn't using that advantage in the marketplace, then he's missing the boat.",
+    "Summer is a time for rest and relaxation, and you could be completely missing the boat.",
+    "(GB) With Premiership crowds at record levels, Leeds are missing the boat.",
+    "(GB) \u2018Unless we understand the financial arrangement, and not look at the student loan program in isolation from the funding arrangement, then we're really missing the boat,\u2019 she said.",
+    "(GB) I really do think the politicians are missing the boat here.",
+    "(GB) The telecom industry is still missing the boat and does not realize we can talk with anybody everywhere almost for free.",
+    "(GB) Life is passing you by and you are in danger of missing the bus, as they say.",
+    "(GB) Rather, they are deeply concerned they may have missed the boat, in relation to the opportunities opened up by the new global economic order."
+  ],
+  "headword": "miss_the_boat_%28or_bus%29",
+  "image": "miss the boat\t.png",
+  "ipa": "",
+  "match_word": "miss the boat",
+  "pronounciation": "idioms_miss_the_boat_wpron.mp3",
+  "senses": [
+    "be too slow to take advantage of opportunity"
+  ],
+  "word": "miss the boat (or bus)"
+}
+
+################################
+
+{
+  "card_id": "idioms_pass_the_buck",
+  "examples": [
+    "elected political leaders cannot pass the buck for crisis decisions to any alternative source of authority",
+    "Have you ever noticed, ironically, that the folks who spend so much time talking about \u2018responsibility\u2019 are usually the first to try to pass the buck?",
+    "But have any so breezily dodged responsibility and so glibly passed the buck?",
+    "(GB) It seems they keep on passing the buck - no one wants to accept responsibility.",
+    "(GB) It seems to me that it is far easier to pass the buck than to take personal responsibility for our own actions.",
+    "(GB) What is especially telling is the depiction of a bureaucracy unable to react, passing the buck and avoiding responsibility.",
+    "(GB) Instead they have been engaged in the old game of passing the buck, and shifting all blame onto the civil service.",
+    "(GB) This is unfair and shows that a hidden tax is often a devious tax, especially when the Government passes the buck to local councils and then disclaims all responsibility for what is going on.",
+    "(GB) The government can pass the buck to companies, and workers can abdicate all responsibility.",
+    "(GB) I don't know if it's been chief and council passing the buck or the co-manager passing the buck.",
+    "(GB) It seems as if government departments are playing games with us, passing the buck from one minister to another."
+  ],
+  "headword": "pass_the_buck",
+  "image": "pass the buckk.jpg",
+  "ipa": "",
+  "match_word": "pass the buck",
+  "pronounciation": "idioms_pass_the_buck_wpron.mp3",
+  "senses": [
+    "shift responsibility for something to someone else"
+  ],
+  "word": "pass the buck"
+}
+
+################################
+
+{
+  "card_id": "idioms_pig_out",
+  "examples": [
+    "a junk food pig-out",
+    "It was like a three-month pig-out that made me better.",
+    "The biggest misconception in endurance racing, says Knight, is the eve-of-the-race, carbo pig-out.",
+    "Not only have you been holed up for weeks but the season can seem like one long pig-out.",
+    "After all, Americans have been on a two-decade oil pig-out, gorging like oversized vacationers at a Vegas buffet.",
+    "Three normal-size meals every day - no post-ride pig-outs - and a midmorning and midafternoon snack.",
+    "(GB) The festival seems to have mutated from a charming harvest festival to an annual beer and sausage pig-out.",
+    "(GB) We eat pancakes only once a year, as a luxury pig-out and as a precursor to 40 days of being good.",
+    "(GB) Held in aid of Great Ormond Street Hospital and Oliver's Fifteen Foundation, it is an opportunity for a guilt-free pig-out.",
+    "(GB) The whole time I was wearing this corset-thing to protect my back, which added a 3.6 degree of difficulty for a major pig-out.",
+    "(GB) If I had really wanted to pig-out and take that double vodka, it would have cost just an extra \u00a31. 40p."
+  ],
+  "headword": "pig-out",
+  "image": "pig outt.jpeg",
+  "ipa": "\u02c8p\u026a\u0261\u02cca\u028at",
+  "match_word": "pig out",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/pigout_us_1.mp3",
+  "senses": [
+    "bout of eating large amount of food"
+  ],
+  "word": "pig-out"
+}
+
+################################
+
+{
+  "card_id": "idioms_plead_the_fifth",
+  "examples": [
+    "Why is she taking the Fifth if she didn't do anything wrong?",
+    "At this point one might want to take the fifth, although this stage is optional.",
+    "Lawyers note that having your lawyer send the message that you will take the fifth can often get you out of a grand jury appearance altogether or at least be the opening gambit in a negotiation with a prosecutor.",
+    "You may have seen him taking the fifth before Congress.",
+    "Four years ago in Nagano, Japan, remember, Team Canada finished fourth and Team USA took the fifth - at least when it came to explaining how the furniture in the athletes' village got trashed.",
+    "Does that order to cooperate amount to a bar on White House employees taking the fifth with investigators?",
+    "Although I might not remember exactly what was said or done while in my true form, or any other guised form, I do know when someone is taking the fifth, if you follow what I am saying.",
+    "(GB) Her taking the fifth amendment will be the story until the war starts."
+  ],
+  "headword": "take_%28or_plead%29_the_fifth",
+  "image": "plead the fifthh.png",
+  "ipa": "",
+  "match_word": "plead the fifth",
+  "pronounciation": "idioms_plead_the_fifth_wpron.mp3",
+  "senses": [
+    "(in US) exercise right guaranteed by Fifth Amendment to Constitution of refusing to answer questions"
+  ],
+  "word": "take (or plead) the Fifth"
+}
+
+################################
+
+{
+  "card_id": "idioms_put_something_on_ice",
+  "examples": [
+    "Julie had put on a cotton dress",
+    "shall I put the light on?",
+    "so many people wanted to visit this spot that an extra flight had to be put on",
+    "she's given up her diet and put on 20 lbs",
+    "he put on a lugubrious look",
+    "he put $1,000 on the horse to win",
+    "Was he just putting all of this on to get me to be his girlfriend?",
+    "And putting the accent on again, he said, \u2018You no crazy at me, you no crazy.\u2019",
+    "Tina put on her fake sad look.",
+    "The teacher turned around, putting his glasses on.",
+    "Trying to save face as much as possible, I put a fake smile on and sauntered over to him, planting a quick kiss on his surprised lips.",
+    "I had the DJ put on slow music so that couples would dance.",
+    "Theresa, with some effort, puts a calm expression on, and gets up.",
+    "I've put about ten pounds of the weight I lost back on.",
+    "He put a hand on it and found the switch, and put the light on.",
+    "I still wish I could have been there when she put her dress on."
+  ],
+  "headword": "put_something_on",
+  "image": "put something on ice\t.jpg",
+  "ipa": "",
+  "match_word": "put something on ice",
+  "pronounciation": "idioms_put_something_on_ice_wpron.mp3",
+  "senses": [
+    "place garment, jewellery, etc. on part of one's body",
+    "cause device to operate",
+    "organize or present play or event",
+    "increase in body weight",
+    "assume particular expression, accent, etc.",
+    "bet specified amount of money on"
+  ],
+  "word": "put something on"
+}
+
+################################
+
+{
+  "card_id": "idioms_take_the_wind_out_of_your_sails",
+  "examples": [
+    "Whatever denial she was about to say make died as that little comment took the wind out of her sails.",
+    "Layoffs, breakups, accidents - any number of life events can take the wind out of your sails.",
+    "I think that completely took the wind out of their sails.",
+    "Maybe he spotted the wedding ring on my finger and that took the wind out of his sails, so he decided to tease me instead.",
+    "(GB) He knew, too, that the move would take the wind out of the opposition's sails.",
+    "(GB) I heard something today which really took the wind out of my sails.",
+    "(GB) This tiny bit of information took the wind out of my sails.",
+    "(GB) The only thing that managed to take the wind out of my sails was when he asked me to divide it equally amongst the children.",
+    "(GB) I have to admit that new tack of his took the wind out of my sails a bit.",
+    "(GB) I read this right before entering college and it took the wind out of my sails."
+  ],
+  "headword": "take_the_wind_out_of_someone%27s_sails",
+  "image": "take the wind out of your sailss.jpg",
+  "ipa": "",
+  "match_word": "take the wind out of your sails",
+  "pronounciation": "idioms_take_the_wind_out_of_your_sails_wpron.mp3",
+  "senses": [
+    "frustrate someone by unexpectedly anticipating action or remark"
+  ],
+  "word": "take the wind out of someone's sails"
+}
+
+################################
+
+{
+  "card_id": "idioms_the_cold_shoulder",
+  "examples": [
+    "why is even his own family giving him the cold shoulder?"
+  ],
+  "headword": "cold_shoulder",
+  "image": "the cold shoulderr.jpeg",
+  "ipa": "",
+  "match_word": "the cold shoulder",
+  "pronounciation": "idioms_the_cold_shoulder_wpron.mp3",
+  "senses": [
+    "show of intentional unfriendliness"
+  ],
+  "word": "cold shoulder"
+}
+
+################################
+
+{
+  "card_id": "idioms_well_begun_is_half_done",
+  "examples": [],
+  "headword": "well-begun",
+  "image": "well begun is half done\t.jpg",
+  "ipa": "\u02ccw\u025blb\u026a\u02c8\u0261\u028cn",
+  "match_word": "well begun is half done",
+  "pronounciation": "idioms_well_begun_is_half_done_wpron.mp3",
+  "senses": [
+    "Begun in a positive or promising manner; properly or correctly started."
+  ],
+  "word": "well-begun"
+}
+
+################################
+
+{
+  "card_id": "idioms_wrap_(something)_up",
+  "examples": [
+    "they hope to wrap up negotiations within sixty days",
+    "They wrap it up with some fascinating conclusions and five answers to \u2018what to do and how to do it.\u2019",
+    "But Washington is insisting that more negotiations are needed before the long-running dispute can be wrapped up.",
+    "That about wraps it up for today, I hope to have some more news tomorrow as we start working on the Prestonia review as well as some other product reviews and articles that have been in the works for a while.",
+    "(GB) The Robins pressed for an equaliser but the visitors wrapped the game up when Gavin Dickinson scored after a good break in the 67th minute.",
+    "(GB) The chapter is also abnormally short, but hopefully it wraps things up well.",
+    "(GB) It was fun if a little light, as though she couldn't be bothered finishing it so she just wrapped it up quickly and then summarised subsequent events in the epilogue.",
+    "(GB) Menigo said it was hoped the case would be wrapped up by June 25.",
+    "(GB) St. Martin's proceeded to wrap the game up with a series of points and a late goal.",
+    "(GB) Although honours in the end were evenly shared after a hard fought contest, one could not help feeling that Yorkshire could have wrapped the game up inside three days if they had adopted different tactics.",
+    "(GB) Lowe auctioneers have been in negotiations with interested buyers and now expect to wrap the sale up in the next two weeks."
+  ],
+  "headword": "wrap_something_up",
+  "image": "wrap (something) upp.jpg",
+  "ipa": "",
+  "match_word": "wrap (something) up",
+  "pronounciation": "idioms_wrap_(something)_up_wpron.mp3",
+  "senses": [
+    "complete or conclude discussion or agreement"
+  ],
+  "word": "wrap something up"
+}
+
+################################
+
+{
+  "card_id": "idioms_wrap_your_head_around_something",
+  "examples": [
+    "they hope to wrap up negotiations within sixty days",
+    "They wrap it up with some fascinating conclusions and five answers to \u2018what to do and how to do it.\u2019",
+    "But Washington is insisting that more negotiations are needed before the long-running dispute can be wrapped up.",
+    "That about wraps it up for today, I hope to have some more news tomorrow as we start working on the Prestonia review as well as some other product reviews and articles that have been in the works for a while.",
+    "(GB) The Robins pressed for an equaliser but the visitors wrapped the game up when Gavin Dickinson scored after a good break in the 67th minute.",
+    "(GB) The chapter is also abnormally short, but hopefully it wraps things up well.",
+    "(GB) It was fun if a little light, as though she couldn't be bothered finishing it so she just wrapped it up quickly and then summarised subsequent events in the epilogue.",
+    "(GB) Menigo said it was hoped the case would be wrapped up by June 25.",
+    "(GB) St. Martin's proceeded to wrap the game up with a series of points and a late goal.",
+    "(GB) Although honours in the end were evenly shared after a hard fought contest, one could not help feeling that Yorkshire could have wrapped the game up inside three days if they had adopted different tactics.",
+    "(GB) Lowe auctioneers have been in negotiations with interested buyers and now expect to wrap the sale up in the next two weeks."
+  ],
+  "headword": "wrap_something_up",
+  "image": "wrap your head around something\t.jpg",
+  "ipa": "",
+  "match_word": "wrap your head around something",
+  "pronounciation": "idioms_wrap_your_head_around_something_wpron.mp3",
+  "senses": [
+    "complete or conclude discussion or agreement"
+  ],
+  "word": "wrap something up"
+}
+
+################################
+
+{
+  "card_id": "idioms_you_can't_judge_a_book_by_its_cover",
+  "examples": [
+    "And I think that, like this movie says, you can't judge a book by its cover.",
+    "This book defies the old adage that claims you can't judge a book by its cover.",
+    "But you can't judge a book by its cover or whatever they say.",
+    "Guess you can't judge a book by its cover after all.",
+    "I told you that you can't judge a book by its cover,\u2019 he reminded her, in an \u2018I-told-you-so\u2019 type of manner.",
+    "This was just another thing that contributed to the fact you can't judge a book by its cover.",
+    "(GB) They seemed all right at first but I suppose you can't judge a book by its cover.",
+    "(GB) Anyone who says you can't judge a book by its cover is an idiot.",
+    "(GB) Despite the admonition that you can't judge a book by its cover, I tend to find that, increasingly, you can.",
+    "(GB) Mind you, you can't judge a book by its cover, me old mum used to say."
+  ],
+  "headword": "you_can%27t_judge_a_book_by_its_cover",
+  "image": "you can't judge a book by its cover\t.jpg",
+  "ipa": "",
+  "match_word": "you can't judge a book by its cover",
+  "pronounciation": "idioms_you_can't_judge_a_book_by_its_cover_wpron.mp3",
+  "senses": [
+    "outward appearances are not reliable indication of true character of person or thing"
+  ],
+  "word": "you can't judge a book by its cover"
+}
+
+################################
+
+{
+  "card_id": "idioms_barking_up_the_wrong_tree",
+  "examples": [
+    "Perhaps social critics are simply barking up the wrong tree.",
+    "But if you're - to tell you the truth, David, if you're thinking I care about this particular story, you're barking up the wrong tree.",
+    "The controversy that is now starting up about the tactics the Russian authorities used in freeing the Moscow hostages is just the media barking up the wrong tree as usual.",
+    "This is interesting and if it's true then we are all barking up the wrong tree with this discussion of \u2018values.\u2019",
+    "We're barking up the wrong tree if we think that \u2018taxing the rich\u2019 will solve all our problems.",
+    "We feel we are tantalizing close to a complete unified theory, but we might be miles away or barking up the wrong tree.",
+    "In my opinion, Congress is barking up the wrong tree here.",
+    "(GB) \u2018It seems a shame that people who live in the town feel the same way but on the other hand it proves I was not barking up the wrong tree,\u2019 he said.",
+    "(GB) However, pardon my pun, but I think he's barking up the wrong tree when he says that \u2018marriage is the sapling and family the fully grown tree.\u2019",
+    "(GB) And assuming that there had been a positive correlation between such crimes and women dressing, you would still be barking up the wrong tree."
+  ],
+  "headword": "be_barking_up_the_wrong_tree",
+  "image": "barking up the wrong treee.jpg",
+  "ipa": "",
+  "match_word": "barking up the wrong tree",
+  "pronounciation": "idioms_barking_up_the_wrong_tree_wpron.mp3",
+  "senses": [
+    "be pursuing mistaken or misguided line of thought"
+  ],
+  "word": "be barking up the wrong tree"
+}
+
+################################
+
+{
+  "card_id": "idioms_burn_your_bridges",
+  "examples": [
+    "(GB) However, until you are sure, it is best not to burn your boats.",
+    "(GB) There, we found all trains were terminating at Skipton and having burned our boats behind us so to speak we took a chance.",
+    "(GB) The young Culpeper had irrevocably burnt his bridges as far as returning to Cambridge and completing his training to be a Minister was concerned; the study of medicine was likewise denied to him.",
+    "(GB) So I've officially burnt my bridges with old/non-compatible browsers now\u2026 a minute's silence please\u2026",
+    "(GB) A with-profits annuity is one way of buying a pension without completely burning your boats.",
+    "(GB) Stabbing me right then was the thought that we had burnt our boats on this quest to return to my roots (my great-grandfather had left Italy for England at the height of the industrial revolution) after 25 years of London life.",
+    "(GB) They weren't stupid enough to burn their bridges so kept me involved in the album, which I am eternally grateful for because it paid for my studio.",
+    "(GB) A move to Coventry during the 1995-96 season fell flat for Jess, leading to a return back to Aberdeen before \u2018burning his bridges\u2019 with his outspoken comments last year.",
+    "(GB) We're absolutely appalled; these people have burned their bridges with us for good.",
+    "(GB) I'm thankful I could do that without burning my bridges at Rangers and everyone, from the chairman to the coaches, was honest and straight with me throughout my move."
+  ],
+  "headword": "burn_one%27s_bridges",
+  "image": "burn your bridgess.jpg",
+  "ipa": "",
+  "match_word": "burn your bridges",
+  "pronounciation": "idioms_burn_your_bridges_wpron.mp3",
+  "senses": [
+    "do something which makes it impossible to return to earlier state"
+  ],
+  "word": "burn one's bridges"
+}
+
+################################
+
+{
+  "card_id": "idioms_cat-nap",
+  "examples": [
+    "A strange-looking man in a black trench coat awakened him from his catnap.",
+    "Over the years, she'd learned to function on three to four hours of sleep during a breaking story, taking a catnap here, forty-winks there.",
+    "Whether used for a daytime catnap or a full night's rest, open-air sleeping platforms can give you a chance to enjoy summer weather to the fullest.",
+    "One of the members of the waitstaff tells us he's \u2018catching up on his sleep, taking 10-minute catnaps somewhere behind the restaurant.\u2019",
+    "Caffeine, the drug found in tea, coffee, colas and chocolate, is how billions of people perk up when modern life doesn't allow for a catnap.",
+    "When you get back, hang out on your porch in a rocking chair and sip lemonade, or take a catnap in one of the many hammocks scattered around the property.",
+    "Anything beyond a catnap and you will enter a deeper stage of sleep that's harder to wake from, which will leave you feeling more tired and may even interfere with getting a good night's rest.",
+    "So I've gotten really good at taking, like, 15-minute catnaps, you know, between scenes.",
+    "He sat up, waking from an uneasy catnap, and blinked.",
+    "That meant quick naps in the office and scheduling recuperation time during trips, including occasional five-minute catnaps on the side of the road while driving between meetings."
+  ],
+  "headword": "catnap",
+  "image": "cat-napp.jpg",
+  "ipa": "\u02c8k\u00e6t\u02ccn\u00e6p",
+  "match_word": "cat-nap",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/catnap_us_1.mp3",
+  "senses": [
+    "short sleep during day"
+  ],
+  "word": "catnap"
+}
+
+################################
+
+{
+  "card_id": "idioms_every_cloud_has_a_silver_lining",
+  "examples": [
+    "Well, here's the news that proves the maxim every cloud has a silver lining.",
+    "But hey, it's not all bad, every cloud has a silver lining!",
+    "I tried to tell him to think of the good times, that every cloud has a silver lining.",
+    "(GB) But every cloud has a silver lining, and my memories of 1956 are generally fond.",
+    "(GB) The sharp movement didn't make me physically tired, which shows that every cloud has a silver lining.",
+    "(GB) All in all it's a bit of a mess but they say every cloud has a silver lining.",
+    "(GB) In a case of every cloud has a silver lining, Bernard had injured his knee and the other soldiers continued on their journey, only to be ambushed.",
+    "(GB) To the economy, and every cloud has a silver lining, they say, but in the dismal science, as they call economics, the opposite is often true.",
+    "(GB) But, every cloud has a silver lining (for me anyway).",
+    "(GB) It seems that if you're big, rich and powerful enough, every cloud has a silver lining."
+  ],
+  "headword": "every_cloud_has_a_silver_lining",
+  "image": "every cloud has a silver liningg.jpg",
+  "ipa": "",
+  "match_word": "every cloud has a silver lining",
+  "pronounciation": "idioms_every_cloud_has_a_silver_lining_wpron.mp3",
+  "senses": [
+    "every difficult or sad situation has comforting or more hopeful aspect"
+  ],
+  "word": "every cloud has a silver lining"
+}
+
+################################
+
+{
+  "card_id": "idioms_get_one's_foot_in_the_door",
+  "examples": [
+    "(GB) So maybe, if you want to get a foot in the door, this is the way to go.",
+    "(GB) Inexperienced candidates looking to get a foot in the door may have to work free.",
+    "(GB) The goal, as Morris puts it, is \u2018to encourage students to get a foot in the door of the industry.\u2019",
+    "(GB) Basically when I came here we were trying to get a foot in the door domestically.",
+    "(GB) Three times they've had a foot in the door to Super League - and three times it's been slammed in their faces.",
+    "(GB) Little wonder that first home buyers cannot get a foot in the door.",
+    "(GB) He doesn't want to spend his whole career bashing the establishment if they're inviting him to get a foot in the door.",
+    "(GB) A spokesperson for the Athy ICA said: It is a positive step, we are happy to have a foot in the door.",
+    "(GB) If someone gets a foot in the door, performance (no other criteria) in getting good returns is almost always given for promotion.",
+    "(GB) The BNP failed to get a foot in the door at the town hall again."
+  ],
+  "headword": "have_%28or_get%29_a_foot_in_the_door",
+  "image": "get one's foot in the doorr.jpg",
+  "ipa": "",
+  "match_word": "get one's foot in the door",
+  "pronounciation": "idioms_get_one's_foot_in_the_door_wpron.mp3",
+  "senses": [
+    "have or gain first introduction to profession or organization"
+  ],
+  "word": "have (or get) a foot in the door"
+}
+
+################################
+
+{
+  "card_id": "idioms_go_over_something_with_a_fine_toothed_comb",
+  "examples": [],
+  "headword": "fine-toothed",
+  "image": "go over something with a fine toothed combb.jpeg",
+  "ipa": "",
+  "match_word": "go over something with a fine toothed comb",
+  "pronounciation": "idioms_go_over_something_with_a_fine_toothed_comb_wpron.mp3",
+  "senses": [
+    "(Of a file, saw, comb, or other toothed implement) having thin, closely set teeth; (also figurative of a search or analysis) very thorough, rigorous."
+  ],
+  "word": "fine-toothed"
+}
+
+################################
+
+{
+  "card_id": "idioms_hindsight",
+  "examples": [
+    "with hindsight, I should never have gone",
+    "(GB) In hindsight this was already a fairly insensitive and stupid thing to do and almost entirely devoid of humour.",
+    "(GB) So with hindsight you were very wise to choose a bond with a guarantee.",
+    "(GB) His book ends with the hope that he'll finally reach shore and hindsight will be gentle.",
+    "(GB) Playing through Iron Storm was like looking back in hindsight on a historical event.",
+    "(GB) With the benefit of hindsight, I prefer to be philosophical about my experience.",
+    "(GB) Without the benefit of hindsight Marianne's instinct was to run and join her mother on the cattle train.",
+    "(GB) In hindsight, Tung and his ministers can certainly see they could have done a better job.",
+    "(GB) With the benefit of hindsight, I should really have realised my limitations and done the easy walk.",
+    "(GB) In hindsight I should have just stayed longer, lay down and waited without embarrassment.",
+    "(GB) Historical hindsight offers a clarity that people at those times simply did not have."
+  ],
+  "headword": "hindsight",
+  "image": "hindsightt.jpeg",
+  "ipa": "\u02c8ha\u026an(d)\u02ccsa\u026at",
+  "match_word": "hindsight",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/hindsight_us_1.mp3",
+  "senses": [
+    "understanding of situation or event only after it has happened or developed"
+  ],
+  "word": "hindsight"
+}
+
+################################
+
+{
+  "card_id": "idioms_it_takes_two_to_tango",
+  "examples": [
+    "I hadn't been all that easy to deal with, myself\u2014it took two to tango",
+    "Keep in mind, it takes two to tango in contract negotiations.",
+    "In a relationship, just as it takes two to tango, it takes two to heal.",
+    "After all, he explained when I'd protested, it takes two to tango.",
+    "(GB) The general trend is to criticise and condemn young girls who get pregnant, instead of remembering it takes two to tango.",
+    "(GB) One doctor answered me, it takes two to tango so you cannot take the responsibility alone.",
+    "(GB) \u2018The company is bending over backwards to try to make this work because it is a very important initiative but it takes two to tango,\u2019 he added.",
+    "(GB) I am sorry but it takes two to tango and a male who is under 16 with a female under 16 should not be punished with detention centres and the like.",
+    "(GB) We endorse comments by both business associations that we have to find a way to have legislation which will have a wider impact than purely partisan values - but it takes two to tango.",
+    "(GB) No use blaming only one partner because it takes two hands to clap just as it takes two to tango!",
+    "(GB) Obviously, it takes two to tango, but I am confident that this country has very substantial support within the United States, and we will continue to work on the relationship."
+  ],
+  "headword": "it_takes_two_to_tango",
+  "image": "it takes two to tangoo.jpeg",
+  "ipa": "",
+  "match_word": "it takes two to tango",
+  "pronounciation": "idioms_it_takes_two_to_tango_wpron.mp3",
+  "senses": [
+    "both parties involved in situation or argument are equally responsible for it"
+  ],
+  "word": "it takes two to tango"
+}
+
+################################
+
+{
+  "card_id": "idioms_oblivious",
+  "examples": [
+    "she became absorbed, oblivious to the passage of time",
+    "the women were oblivious of his presence",
+    "(GB) Unbelievably, they can walk among their victims, oblivious to their humanity.",
+    "(GB) As oblivious of stoplights as he was of pedestrians, he owned the streets.",
+    "(GB) He was very well paid by the corporation but was apparently quite oblivious of the mess into which his company was plunging.",
+    "(GB) As if I was somehow oblivious to the fact that he had to pick and dig and drill and scrape away at my tooth as it valiantly clung to my gums.",
+    "(GB) The wonder is that most of the Cabinet seems supremely oblivious - or dismissive.",
+    "(GB) Our council seem impervious to criticism and oblivious to basic common sense.",
+    "(GB) The moment passes and my partner continues breathing deeply, oblivious to my little dialogue.",
+    "(GB) He is even more taciturn when he drives, often appearing oblivious to any other presence.",
+    "(GB) Meila was asleep and unconscious, oblivious to the days that had already happened.",
+    "(GB) She burst into tears, incredulous, a reaction to which Allen seemed oblivious."
+  ],
+  "headword": "oblivious",
+  "image": "obliviouss.jpg",
+  "ipa": "\u0259\u02c8bl\u026avi\u0259s",
+  "match_word": "oblivious",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/oblivious_us_1.mp3",
+  "senses": [
+    "not aware of or concerned about what is happening around one"
+  ],
+  "word": "oblivious"
+}
+
+################################
+
+{
+  "card_id": "idioms_once_ina_blue_moon",
+  "examples": [
+    "he comes around once in a blue moon"
+  ],
+  "headword": "once_in_a_blue_moon",
+  "image": "once ina blue moonn.jpg",
+  "ipa": "",
+  "match_word": "once ina blue moon",
+  "pronounciation": "idioms_once_ina_blue_moon_wpron.mp3",
+  "senses": [
+    "very rarely"
+  ],
+  "word": "once in a blue moon"
+}
+
+################################
+
+{
+  "card_id": "idioms_piggyback",
+  "examples": [
+    "Then a physician at Oxford University offered to include him in a test of a new piggyback device - an \"axial flow pump\" that pushes blood in a continuous stream (no pulse) through the heart's left ventricle and out into the body.",
+    "The top carry handle also includes a 1/2-20 stud for piggyback camera mounting.",
+    "Years ago there was a local piggyback tax, which meant the local governments would have tax rates of 50% or 60% of the state tax.",
+    "I suggested to my girlfriend that I give her a piggyback ride to the phone.",
+    "(GB) Piggyback mounts allow a camera to be mounted parallel to the axis of a telescope, such that camera and telescope are pointed at the same target.",
+    "(GB) Now the younger monk was perturbed by his friend's conduct because their monastic code forbade them touching a woman, much less giving her a piggyback ride.",
+    "(GB) So he's giving her a piggyback ride down the stairs.",
+    "(GB) Here\u0092s the priceless moment between David and his mom as he gives her a piggyback ride as a part of Korean wedding tradition.",
+    "(GB) This is another piggyback device and your bike returns to previous state when removed from your bike.",
+    "(GB) I'd had the foresight to wear my waterproof hiking boots, so to save my wife's shoes from ruin I gave her a piggyback ride while she held the umbrella."
+  ],
+  "headword": "piggyback",
+  "image": "piggybackk.jpg",
+  "ipa": "\u02c8p\u026a\u0261i\u02ccb\u00e6k",
+  "match_word": "piggyback",
+  "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/piggyback_us_1.mp3",
+  "senses": [
+    "ride on someone's back and shoulders"
+  ],
+  "word": "piggyback"
+}
+
+################################
+
+{
+  "card_id": "idioms_put_in_the_long_hours",
+  "examples": [
+    "My old home computer was getting a little long in the tooth, so I decided it was time to upgrade to a speedy new machine.",
+    "(GB) His gaggle of girlfriends all seem suspiciously long in the tooth to qualify as high-school students.",
+    "(GB) I think I am too long in the tooth to start adopting the dress down policy of many of today's businesses.",
+    "(GB) He assures me he is far too long in the tooth to compete against the current world title holders, who nowadays are in their teens.",
+    "(GB) After a career in building he decided he was too long in the tooth and looked to something more gentle - funeral directory.",
+    "(GB) I'm too long in the tooth and I'm too old to be bluffed.",
+    "(GB) \u2018I felt we were getting a bit long in the tooth,\u2019 he said.",
+    "(GB) I'm a bit too long in the tooth to get too worked up about these things any more.",
+    "(GB) But the car was looking increasingly long in the tooth, despite continuous design improvements.",
+    "(GB) I'm only 29 so I hope that doesn't make me long in the tooth, I started driving a logging truck when I was 17."
+  ],
+  "headword": "long_in_the_tooth",
+  "image": "put in the long hourss.jpeg",
+  "ipa": "",
+  "match_word": "put in the long hours",
+  "pronounciation": "idioms_put_in_the_long_hours_wpron.mp3",
+  "senses": [
+    "rather old"
+  ],
+  "word": "long in the tooth"
+}
+
+################################
+
+{
+  "card_id": "idioms_the_world_is_your_oyster",
+  "examples": [
+    "If you're traveling on your own, the world is your oyster.",
+    "(GB) If it is to be a summer border, full of foliage and flower in a sunny and sheltered spot, the world is your oyster.",
+    "(GB) Then, who knows where the night will take you\u2026 maybe Beach Street, or the Bahama Hut\u2026 the world is your oyster!",
+    "(GB) Once you've completed your training you can begin to hone your creative talents, and the world is your oyster.",
+    "(GB) Well, becoming a medic or vet might be a push, but otherwise, as I've mentioned before, the world is your oyster.",
+    "(GB) \u2018When you're young, you think the world is your oyster,\u2019 says Grand-Maitre, looking back.",
+    "(GB) If you decide to travel, the world is your oyster.",
+    "(GB) If you win, the world is your oyster.",
+    "(GB) The world seemed to be their oyster, particularly as second album, Utopia Parkway, found its way onto several year end best of lists.",
+    "(GB) When the world is your oyster, you surely have a better chance of finding a pearl."
+  ],
+  "headword": "the_world_is_your_oyster",
+  "image": "the world is your oysterr.png",
+  "ipa": "",
+  "match_word": "the world is your oyster",
+  "pronounciation": "idioms_the_world_is_your_oyster_wpron.mp3",
+  "senses": [
+    "you are in position to take opportunities that life has to offer"
+  ],
+  "word": "the world is your oyster"
+}
+
+################################
+
+{
+  "card_id": "idioms_two's_company_three's_a_crowd",
+  "examples": [
+    "Immortality is like the little brother tagging along when his big sister goes for a drive with a date, a light comedy motif in the movies of the forties, the erotic variant of two's company, three's a crowd."
+  ],
+  "headword": "two%27s_company%2C_three%27s_a_crowd",
+  "image": "two's company three's a crowdd.jpg",
+  "ipa": "",
+  "match_word": "two's company three's a crowd",
+  "pronounciation": "idioms_two's_company_three's_a_crowd_wpron.mp3",
+  "senses": [
+    "two people should be left alone together"
+  ],
+  "word": "two's company, three's a crowd"
+}
+
+################################
+
+{
+  "card_id": "idioms_vairety_is_the_spice_of_life",
+  "examples": [
+    "You know what they say about variety being the spice of life.",
+    "The old adage that variety is the spice of life still holds true!",
+    "(GB) You may have a passion for one kind of wine or another, but variety is the spice of life with wine, so shop around for different styles.",
+    "(GB) Most people would agree that variety is the spice of life, and that includes sex.",
+    "(GB) Some differences will persist but then variety is the spice of life.",
+    "(GB) Don't force children to eat and remember, variety is the spice of life.",
+    "(GB) Then again he is very broadminded in his musical taste which is a good thing really I suppose - variety is the spice of life and all that.",
+    "(GB) The next evening I pulled the same stunt with a completely different person, variety being the spice of life.",
+    "(GB) Some say variety is the spice of life, and when it comes to breakfast I have to agree with them.",
+    "(GB) Well, they do say variety is the spice of life, I suppose."
+  ],
+  "headword": "variety_is_the_spice_of_life",
+  "image": "vairety is the spice of lifee.jpg",
+  "ipa": "",
+  "match_word": "vairety is the spice of life",
+  "pronounciation": "idioms_vairety_is_the_spice_of_life_wpron.mp3",
+  "senses": [
+    "new and exciting experiences make life more interesting"
+  ],
+  "word": "variety is the spice of life"
+}
+
+################################
+
+{
+  "card_id": "idioms_water_under_the_bridge",
+  "examples": [
+    "I spoke to both artists about that incident right after today's announcement, and for them it's been cleared up and it's just water under the bridge.",
+    "As far as the bad blood goes, I think it should be water under the bridge.",
+    "But that's water under the bridge at this point.",
+    "And when you get together with him is it water under the bridge or do you still continue to talk about the things that you guys have been through and how have you fixed that relationship?",
+    "Past fiscal decisions are water over the dam, given the national government's priority for addressing recession in a timely manner.",
+    "While what's past is past and there's no use crying about water under the bridge, it does appear that this decision may have been a mistake on my part.",
+    "It is just water under the bridge now, I suppose.",
+    "(GB) It's all water under the bridge and if it hadn't happened, we wouldn't have seen the great feat of engineering that we have in the city today.",
+    "(GB) It's all water under the bridge now and I don't have any bitterness, but I'm convinced that it's difficult to claim there's no connection.",
+    "(GB) After that it was all water under the bridge and they were friends again."
+  ],
+  "headword": "water_under_the_bridge",
+  "image": "water under the bridgee.jpg",
+  "ipa": "",
+  "match_word": "water under the bridge",
+  "pronounciation": "idioms_water_under_the_bridge_wpron.mp3",
+  "senses": [
+    "used to refer to events that are in past"
+  ],
+  "word": "water under the bridge"
+}
+
+################################
+
+{
+  "card_id": "idioms_wear_your_heart_on_your_sleeve",
+  "examples": [
+    "(GB) Happily, events on the park were a fitting tribute to the man who always wore his heart on his sleeve and played with a passion too often absent from the modern game.",
+    "(GB) I know he wears his heart on his sleeve and I know he's a good manager.",
+    "(GB) I showed my feelings and wore my heart on my sleeve.",
+    "(GB) He is not pretentious in any way, he wears his heart on his sleeve and I think that projects to anyone listening to his music.",
+    "(GB) He always wore his heart on his sleeve and has done wonderfully well here.",
+    "(GB) He carried a bunch of no-hopers for years; he is a terrific motivator; he takes no guff from authority; he told Sir Alex where to go and was proved right; and he was a great player who wore his heart on his sleeve.",
+    "(GB) But this is a sparky and feisty player who wears his heart on his sleeve.",
+    "(GB) I think it's because he wears his heart on his sleeve and the emotion just pours out.",
+    "(GB) He wears his heart on his sleeve and that's what we admire about him.",
+    "(GB) The big Scot led from the front, making one goal and scoring the other, and generally wore his heart on his sleeve in an encounter that carried over several feuds from the first acrimonious meeting between the clubs in December."
+  ],
+  "headword": "wear_one%27s_heart_on_one%27s_sleeve",
+  "image": "wear your heart on your sleevee.jpg",
+  "ipa": "",
+  "match_word": "wear your heart on your sleeve",
+  "pronounciation": "idioms_wear_your_heart_on_your_sleeve_wpron.mp3",
+  "senses": [
+    "make one's feelings apparent"
+  ],
+  "word": "wear one's heart on one's sleeve"
+}
+
+################################
+
+{
+  "card_id": "idioms_what_goes_around_comes_around",
+  "examples": [
+    "(GB) But although I strive daily to do the right thing - believing firmly in the karmic law that what goes around comes around - I've never, ever aspired to returning to earth as the Dalai Lama.",
+    "(GB) I'm a big believer in what goes around comes around and we have always been well treated by the older generation and I'm just trying to put a bit back.",
+    "(GB) I only hope what goes around comes around in your case, and one day you get caught.",
+    "(GB) And it's a powerful belief, offering both hope to the oppressed - suffering cannot last forever - and a warning to the oppressor - take care, what goes around comes around.",
+    "(GB) I have no idea what makes someone go to those lengths, but I believe what goes around comes around and she has got what she deserved.",
+    "(GB) Watford were on the receiving end of some decisions tonight as we were on Saturday, so what goes around comes around.",
+    "(GB) It's nice to know what goes around comes around.",
+    "(GB) For the real, harsh truth about life is mostly that what goes around comes around.",
+    "(GB) I really feel that there is a responsibility and what goes around comes around.",
+    "(GB) We're having to fund it too, because as in all things, what goes around comes around - although we were paying for legal aid anyway, but I don't suppose the Government's given that money back."
+  ],
+  "headword": "what_goes_around_comes_around",
+  "image": "what goes around comes aroundd.jpg",
+  "ipa": "",
+  "match_word": "what goes around comes around",
+  "pronounciation": "idioms_what_goes_around_comes_around_wpron.mp3",
+  "senses": [
+    "consequences of one's actions will have to be dealt with eventually"
+  ],
+  "word": "what goes around comes around"
+}
+
+################################
+
