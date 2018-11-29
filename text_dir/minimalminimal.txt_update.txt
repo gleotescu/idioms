@@ -1,0 +1,295 @@
+[
+    {
+        "card_id": "fleece",
+        "match_word": "fleece",
+        "word": "fleece",
+        "senses": [
+            "woolly covering of sheep or goat",
+            "soft fabric like sheep's wool"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/fleece_us_1.mp3",
+        "image": "",
+        "headword": "fleece",
+        "ipa": "flis"
+    },
+    {
+        "card_id": "fleas",
+        "match_word": "fleas",
+        "word": "flea",
+        "senses": [
+            "small wingless jumping insect which feeds on blood of mammals and birds"
+        ],
+        "examples": [],
+        "pronounciation": "fleas_wpron.mp3",
+        "image": "",
+        "headword": "flea",
+        "ipa": "fli"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "peace",
+        "match_word": "peace",
+        "word": "peace",
+        "senses": [
+            "tranquillity"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/peace_us_1.mp3",
+        "image": "",
+        "headword": "peace",
+        "ipa": "pis"
+    },
+    {
+        "card_id": "P's",
+        "match_word": "P's",
+        "word": "p",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "P's_wpron.mp3",
+        "image": "",
+        "headword": "p",
+        "ipa": "pis"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "ace",
+        "match_word": "ace",
+        "word": "ace",
+        "senses": [
+            "person who excels at particular sport or other activity"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/ace_1_us_1_abbr.mp3",
+        "image": "",
+        "headword": "ace",
+        "ipa": "e\u026as"
+    },
+    {
+        "card_id": "A's",
+        "match_word": "A's",
+        "word": "a",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "A's_wpron.mp3",
+        "image": "",
+        "headword": "a",
+        "ipa": "\u0259s"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "force",
+        "match_word": "force",
+        "word": "force",
+        "senses": [
+            "coercion or compulsion"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/force_us_1.mp3",
+        "image": "",
+        "headword": "force",
+        "ipa": "f\u0254rs"
+    },
+    {
+        "card_id": "fours",
+        "match_word": "fours",
+        "word": "four",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "fours_wpron.mp3",
+        "image": "",
+        "headword": "four",
+        "ipa": "f\u0254rs"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "pence",
+        "match_word": "pence",
+        "word": "pence",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/pence_us_1.mp3",
+        "image": "",
+        "headword": "pence",
+        "ipa": "p\u025bns"
+    },
+    {
+        "card_id": "pens",
+        "match_word": "pens",
+        "word": "pen",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "pens_wpron.mp3",
+        "image": "",
+        "headword": "pen",
+        "ipa": "p\u025bns"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "advice",
+        "match_word": "advice",
+        "word": "advice",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/advice_us_1.mp3",
+        "image": "",
+        "headword": "advice",
+        "ipa": "\u0259d\u02c8va\u026as"
+    },
+    {
+        "card_id": "advise",
+        "match_word": "advise",
+        "word": "advise",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/advise_us_1.mp3",
+        "image": "",
+        "headword": "advise",
+        "ipa": "\u0259d\u02c8va\u026az"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "fussy",
+        "match_word": "fussy",
+        "word": "fussy",
+        "senses": [
+            "fastidious about one's needs or requirements"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/fussy_us_1.mp3",
+        "image": "",
+        "headword": "fussy",
+        "ipa": "\u02c8f\u0259si"
+    },
+    {
+        "card_id": "fuzzy",
+        "match_word": "fuzzy",
+        "word": "fuzzy",
+        "senses": [
+            "indistinct or vague"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/fuzzy_us_1.mp3",
+        "image": "",
+        "headword": "fuzzy",
+        "ipa": "\u02c8f\u0259zi"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "pierce",
+        "match_word": "pierce",
+        "word": "pierce",
+        "senses": [
+            "go into or through"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/pierce_us_1.mp3",
+        "image": "",
+        "headword": "pierce",
+        "ipa": "p\u026ars"
+    },
+    {
+        "card_id": "peers",
+        "match_word": "peers",
+        "word": "peer",
+        "senses": [
+            "look with difficulty or concentration at person or thing"
+        ],
+        "examples": [],
+        "pronounciation": "peers_wpron.mp3",
+        "image": "",
+        "headword": "peer",
+        "ipa": "p\u026ars"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "apiece",
+        "match_word": "apiece",
+        "word": "apiece",
+        "senses": [
+            "to, for, or by each one of group"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/apiece_us_1.mp3",
+        "image": "",
+        "headword": "apiece",
+        "ipa": "\u0259\u02c8pis"
+    },
+    {
+        "card_id": "appease",
+        "match_word": "appease",
+        "word": "appease",
+        "senses": [
+            "assuage or satisfy"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/appease_us_1.mp3",
+        "image": "",
+        "headword": "appease",
+        "ipa": "\u0259\u02c8piz"
+    }
+]
+
+################################
+
+[
+    {
+        "card_id": "gross",
+        "match_word": "gross",
+        "word": "gross",
+        "senses": [
+            "very obvious and unacceptable"
+        ],
+        "examples": [],
+        "pronounciation": "http://audio.oxforddictionaries.com/en/mp3/gross_us_1.mp3",
+        "image": "",
+        "headword": "gross",
+        "ipa": "\u0261ro\u028as"
+    },
+    {
+        "card_id": "grows",
+        "match_word": "grows",
+        "word": "grow",
+        "senses": [],
+        "examples": [],
+        "pronounciation": "grows_wpron.mp3",
+        "image": "",
+        "headword": "grow",
+        "ipa": "\u0261ro\u028as"
+    }
+]
+
+################################
+
